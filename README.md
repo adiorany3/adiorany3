@@ -1,7 +1,5 @@
 # 👋 Galuh Adi Insani (adiorany3)
 
-![Profile Avatar](https://avatars.githubusercontent.com/u/158135665?v=4)
-
 ## 🌟 About Me
 
 Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Python applications** for agriculture, statistics, and data analysis. With over **955 contributions** on GitHub in the last year, I focus on creating practical tools that solve real-world problems in farming and research.
