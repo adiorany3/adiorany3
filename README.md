@@ -127,6 +127,7 @@ I'm always open to collaboration on agricultural technology projects, statistica
 [![GitHub](https://img.shields.io/badge/GitHub-adiorany3-181717?style=flat&logo=github)](https://github.com/adiorany3)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
 [![Website](https://img.shields.io/badge/Website-adioranye.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://adioranye.vercel.app)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat%20with%20Me-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/adiorany3)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adiorany3.adiorany3)
 
