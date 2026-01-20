@@ -14,6 +14,11 @@ Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Pyt
 - 🏆 **YOLO Achievement** - Active in computer vision and object detection
 - 🦈 **Pull Shark** - Consistent contributor to open-source projects
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiorany3&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiorany3&layout=compact&theme=radical)
+
 ## 📌 Featured Projects
 
 Here are some of my key repositories that showcase my expertise in agricultural software and statistical tools:
