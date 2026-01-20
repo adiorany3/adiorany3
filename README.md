@@ -1,5 +1,14 @@
 # 👋 Galuh Adi Insani (adiorany3)
 
+## Table of Contents
+- [🌟 About Me](#-about-me)
+- [🏆 Achievements](#-achievements)
+- [📊 GitHub Stats](#-github-stats)
+- [📌 Featured Projects](#-featured-projects)
+- [🔄 Recent Activity](#-recent-activity)
+- [🛠️ Technologies & Skills](#️-technologies--skills)
+- [📞 Connect with Me](#-connect-with-me)
+
 ## 🌟 About Me
 
 Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Python applications** for agriculture, statistics, and data analysis. With over **955 contributions** on GitHub in the last year, I focus on creating practical tools that solve real-world problems in farming and research.
@@ -89,9 +98,7 @@ Here are some of my key repositories that showcase my expertise in agricultural 
 
 ## 🔄 Recent Activity
 
-- 📚 **CariBuku** (HTML) - Book search application - *January 15, 2026*
-- 🔍 **DorkGoogle** (Python) - Google dorking tool - *January 17, 2026*
-- 🎨 **adioranye-portfolio** (TypeScript) - Personal portfolio website  📖🔍
+- 📚 **CariBuku** (HTML) - Book search application - *January 15, 2026* 📖🔍
 - 🔍 **DorkGoogle** (Python) - Google dorking tool - *January 17, 2026* 🕵️‍♂️🌐
 - 🎨 **adioranye-portfolio** (TypeScript) - Personal portfolio website - *January 11, 2026* 💼✨
 
