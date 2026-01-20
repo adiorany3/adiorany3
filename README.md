@@ -91,9 +91,9 @@ Here are some of my key repositories that showcase my expertise in agricultural 
 
 - 📚 **CariBuku** (HTML) - Book search application - *January 15, 2026*
 - 🔍 **DorkGoogle** (Python) - Google dorking tool - *January 17, 2026*
-- 🎨 **adioranye-portfolio** (TypeScript) - Personal portfolio website - *January 11, 2026*
-
-## 🛠️ Technologies & Skills
+- 🎨 **adioranye-portfolio** (TypeScript) - Personal portfolio website  📖🔍
+- 🔍 **DorkGoogle** (Python) - Google dorking tool - *January 17, 2026* 🕵️‍♂️🌐
+- 🎨 **adioranye-portfolio** (TypeScript) - Personal portfolio website - *January 11, 2026* 💼✨
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -121,8 +121,13 @@ I'm always open to collaboration on agricultural technology projects, statistica
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
 [![Website](https://img.shields.io/badge/Website-adioranye.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://adioranye.vercel.app)
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adiorany3.adiorany3)
+
 ---
 
-⭐ **Fun Fact**: My projects have helped farmers optimize feed costs and researchers perform better statistical analysis!
+⭐ **Fun Facts**:
+- 🌱 My projects have helped farmers optimize feed costs and researchers perform better statistical analysis!
+- 🚀 I love combining agriculture with cutting-edge tech like AI and data science.
+- 📊 Fun fact: I can calculate ruminant rations faster than you can say "linear programming"!
 
 *"Building technology to bridge the gap between agriculture and data science"* 🚀
