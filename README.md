@@ -14,7 +14,7 @@
 Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Python applications** for agriculture, statistics, and data analysis. With over **955 contributions** on GitHub in the last year, I focus on creating practical tools that solve real-world problems in farming and research.
 
 - **🌐 Website**: [adioranye.vercel.app](https://adioranye.vercel.app)
-- [![GitHub followers](https://img.shields.io/github/followers/adiorany3?label=Followers&style=social)](https://github.com/adiorany3) | **👤 Following**: 8
+- **👥 Followers**: 10 | **👤 Following**: 8
 - **📍 Location**: Indonesia
 - **🎯 Focus**: Agricultural Technology, Statistical Analysis, Web Applications
 
@@ -26,25 +26,19 @@ Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Pyt
 
 ## 📊 GitHub Stats
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=adiorany3&show_icons=true&theme=radical" alt="adiorany3's GitHub stats" height="165"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiorany3&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiorany3&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
+<!-- Alternatif badge statik jika badge dinamis tidak muncul -->
+![GitHub followers](https://img.shields.io/github/followers/adiorany3?label=Followers&style=social)
+![GitHub stars](https://img.shields.io/github/stars/adiorany3?label=Stars&style=social)
+![GitHub repo](https://img.shields.io/badge/Repo-adiorany3-blue?logo=github)
 
-<p align="center">
-	<img src="https://github-profile-trophy.vercel.app/?username=adiorany3&theme=radical&margin-w=10&margin-h=10" alt="Trophy" />
-</p>
+<!-- Statistik manual -->
+**Statistik Manual:**
 
-<details>
-<summary>ℹ️ <b>Keterangan Statistik</b></summary>
+- 🔥 Total Repos: 10+
+- 🏆 Total Stars: 50+
+- 💻 Top Language: Python
 
-- <b>GitHub Stats</b>: Statistik kontribusi, commit, dan repo publik.
-- <b>Top Languages</b>: Bahasa pemrograman yang paling sering digunakan.
-- <b>Streak</b>: Jumlah hari berkontribusi berturut-turut.
-- <b>Trophy</b>: Penghargaan otomatis dari aktivitas GitHub.
-
-</details>
+<!-- Jika badge dinamis sudah normal, hapus bagian manual di atas dan gunakan kembali badge dinamis. -->
 
 ## 📌 Featured Projects
 
