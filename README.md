@@ -1,7 +1,13 @@
 
 <div align="center">
-	<h1>👋 Galuh Adi Insani <br><span style="font-size:0.7em;">(adiorany3)</span></h1>
+	<h1 style="font-size:2.2em;">👋 <b>Galuh Adi Insani</b></h1>
+	<span style="font-size:1.1em;color:#888;">(adiorany3)</span>
+	<br>
 	<img src="https://img.shields.io/badge/Python%20Dev-AgriTech%20%7C%20Statistics-0e76a8?style=for-the-badge&logo=python&logoColor=white" alt="Python Dev | AgriTech | Statistics"/>
+	<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-ffb300?style=for-the-badge&logo=github" alt="Open Source Enthusiast"/>
+	<img src="https://img.shields.io/badge/Always%20Learning-%F0%9F%92%AB-green?style=for-the-badge" alt="Always Learning"/>
+	<br>
+	<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" alt="hello"/>
 </div>
 
 ---
