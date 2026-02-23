@@ -7,7 +7,6 @@
 	<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-ffb300?style=for-the-badge&logo=github" alt="Open Source Enthusiast"/>
 	<img src="https://img.shields.io/badge/Always%20Learning-%F0%9F%92%AB-green?style=for-the-badge" alt="Always Learning"/>
 	<br>
-	<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" alt="hello"/>
 </div>
 
 ---
