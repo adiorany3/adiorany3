@@ -26,19 +26,33 @@ Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Pyt
 
 ## 📊 GitHub Stats
 
-<!-- Alternatif badge statik jika badge dinamis tidak muncul -->
-![GitHub followers](https://img.shields.io/github/followers/adiorany3?label=Followers&style=social)
-![GitHub stars](https://img.shields.io/github/stars/adiorany3?label=Stars&style=social)
-![GitHub repo](https://img.shields.io/badge/Repo-adiorany3-blue?logo=github)
+<div align="center">
+	<img src="https://img.shields.io/github/followers/adiorany3?label=Followers&style=for-the-badge&color=0e76a8" alt="Followers"/>
+	<img src="https://img.shields.io/github/stars/adiorany3?label=Stars&style=for-the-badge&color=ffb300" alt="Stars"/>
+	<img src="https://img.shields.io/badge/Repo-adiorany3-blue?style=for-the-badge&logo=github" alt="Repo"/>
+</div>
 
-<!-- Statistik manual -->
-**Statistik Manual:**
+<div align="center">
+	<img src="https://img.shields.io/badge/Total%20Repos-10+-green?style=for-the-badge" alt="Total Repos"/>
+	<img src="https://img.shields.io/badge/Top%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Top Language"/>
+	<img src="https://img.shields.io/badge/Total%20Stars-50+-ffb300?style=for-the-badge" alt="Total Stars"/>
+</div>
 
-- 🔥 Total Repos: 10+
-- 🏆 Total Stars: 50+
-- 💻 Top Language: Python
+<div align="center" style="margin-top:10px;">
+	<b>✨ Aktif, Kolaboratif, dan Konsisten Berkontribusi! ✨</b>
+</div>
 
-<!-- Jika badge dinamis sudah normal, hapus bagian manual di atas dan gunakan kembali badge dinamis. -->
+<details>
+<summary>ℹ️ <b>Keterangan Statistik</b></summary>
+
+- <b>Followers</b>: Jumlah pengikut di GitHub
+- <b>Stars</b>: Total bintang di seluruh repositori
+- <b>Repo</b>: Nama akun GitHub
+- <b>Total Repos</b>: Jumlah repositori publik
+- <b>Top Language</b>: Bahasa pemrograman utama
+- <b>Total Stars</b>: Estimasi total bintang
+
+</details>
 
 ## 📌 Featured Projects
 
