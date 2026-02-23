@@ -1,6 +1,15 @@
-# 👋 Galuh Adi Insani (adiorany3)
 
-## Table of Contents
+<div align="center">
+	<h1>👋 Galuh Adi Insani <br><span style="font-size:0.7em;">(adiorany3)</span></h1>
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0e76a8&center=true&vCenter=true&width=380&lines=Python+Dev+%7C+AgriTech+%7C+Statistics;Open+Source+Enthusiast;Always+Learning+%F0%9F%92%AB" alt="Typing SVG"/>
+</div>
+
+---
+
+
+<details>
+<summary>📑 <b>Table of Contents</b></summary>
+
 - [🌟 About Me](#-about-me)
 - [🏆 Achievements](#-achievements)
 - [📊 GitHub Stats](#-github-stats)
@@ -9,19 +18,38 @@
 - [🛠️ Technologies & Skills](#️-technologies--skills)
 - [📞 Connect with Me](#-connect-with-me)
 
+</details>
+
+---
+
+
 ## 🌟 About Me
 
-Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Python applications** for agriculture, statistics, and data analysis. With over **955 contributions** on GitHub in the last year, I focus on creating practical tools that solve real-world problems in farming and research.
+<div align="center">
+	<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="hello"/>
+</div>
 
-- **🌐 Website**: [adioranye.vercel.app](https://adioranye.vercel.app)
-- **👥 Followers**: 10 | **👤 Following**: 8
-- **📍 Location**: Indonesia
-- **🎯 Focus**: Agricultural Technology, Statistical Analysis, Web Applications
+Hi! I'm <b>Galuh Adi Insani</b> — a passionate developer who loves building <b>Python applications</b> for agriculture, statistics, and data analysis. I enjoy solving real-world problems for farmers and researchers with practical, user-friendly tools.
+
+<ul>
+	<li>🌐 <b>Website:</b> <a href="https://adioranye.vercel.app">adioranye.vercel.app</a></li>
+	<li>👥 <b>Followers:</b> 10 &nbsp;|&nbsp; <b>Following:</b> 8</li>
+	<li>📍 <b>Location:</b> Indonesia</li>
+	<li>🎯 <b>Focus:</b> AgriTech, Statistical Analysis, Web Apps</li>
+</ul>
+
+---
 
 ## 🏆 Achievements
 
-- 🏆 **YOLO Achievement** - Active in computer vision and object detection
-- 🦈 **Pull Shark** - Consistent contributor to open-source projects
+<ul>
+	<li>🏆 <b>YOLO Achievement</b> — Active in computer vision & object detection</li>
+	<li>🦈 <b>Pull Shark</b> — Konsisten berkontribusi di open-source</li>
+	<li>🌱 <b>AgriTech Impact</b> — Tools membantu petani & peneliti</li>
+	<li>🚀 <b>1000+ Contributions</b> — dalam 1 tahun terakhir</li>
+</ul>
+
+---
 
 
 ## 📊 GitHub Stats
@@ -30,9 +58,6 @@ Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Pyt
 	<img src="https://img.shields.io/github/followers/adiorany3?label=Followers&style=for-the-badge&color=0e76a8" alt="Followers"/>
 	<img src="https://img.shields.io/github/stars/adiorany3?label=Stars&style=for-the-badge&color=ffb300" alt="Stars"/>
 	<img src="https://img.shields.io/badge/Repo-adiorany3-blue?style=for-the-badge&logo=github" alt="Repo"/>
-</div>
-
-<div align="center">
 	<img src="https://img.shields.io/badge/Total%20Repos-10+-green?style=for-the-badge" alt="Total Repos"/>
 	<img src="https://img.shields.io/badge/Top%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Top Language"/>
 	<img src="https://img.shields.io/badge/Total%20Stars-50+-ffb300?style=for-the-badge" alt="Total Stars"/>
@@ -42,126 +67,145 @@ Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Pyt
 	<b>✨ Aktif, Kolaboratif, dan Konsisten Berkontribusi! ✨</b>
 </div>
 
-<details>
-<summary>ℹ️ <b>Keterangan Statistik</b></summary>
+---
 
-- <b>Followers</b>: Jumlah pengikut di GitHub
-- <b>Stars</b>: Total bintang di seluruh repositori
-- <b>Repo</b>: Nama akun GitHub
-- <b>Total Repos</b>: Jumlah repositori publik
-- <b>Top Language</b>: Bahasa pemrograman utama
-- <b>Total Stars</b>: Estimasi total bintang
-
-</details>
 
 ## 📌 Featured Projects
 
-Here are some of my key repositories that showcase my expertise in agricultural software and statistical tools:
+<details open>
+<summary>🔎 <b>Beberapa Proyek Unggulan</b></summary>
 
-### 🐄 **ransumruminansia**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/ransumruminansia)
-> A comprehensive web application for calculating ruminant feed rations. Features manual formulation, automatic optimization using linear programming, and mineral supplement analysis. Built with Streamlit, supports various livestock types (cattle, sheep, goats).
+Berikut beberapa repositori utama yang menunjukkan keahlian saya di bidang software pertanian dan statistik:
 
-**Key Features:**
-- Manual and automatic feed formulation
-- Cost optimization algorithms
-- Mineral deficiency analysis
-- Real-time nutritional analysis
-
-### 📊 **OneWay**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/OneWay)
-> Statistical analysis tool for One-Way ANOVA with comprehensive post-hoc testing and visualization. Includes multiple comparison methods (Tukey HSD, Bonferroni, etc.) and assumption checking.
-
-**Key Features:**
-- One-Way ANOVA calculations
-- Multiple post-hoc tests
-- Effect size estimation (Cohen's d)
-- Rich visualizations (boxplots, distribution plots)
-- Assumption testing (normality, homogeneity)
-
-### 🥛 **ransumsapiperah**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/ransumsapiperah)
-> Specialized application for optimizing dairy cow feed formulations using linear programming. Calculates optimal feed mixtures based on nutritional requirements and cost constraints.
-
-**Key Features:**
-- Linear programming optimization
-- Nutritional requirement calculations
-- Cost minimization algorithms
-- Support for various feed ingredients
-
-### 📈 **ttest**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/ttest)
-> Comprehensive T-Test analysis application supporting both One Sample and Independent T-Tests. Features detailed statistical analysis, effect size calculations, and rich visualizations.
-
-**Key Features:**
-- One Sample and Independent T-Tests
-- Effect size calculation (Cohen's d)
-- Confidence intervals
-- Multiple visualization types
-- Comprehensive result interpretation
-
-### 🔬 **TwoWay**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/TwoWay)
-> Advanced Two-Way ANOVA analysis tool with interaction analysis, post-hoc testing, and comprehensive visualizations. Supports CSV/Excel data import and multiple export formats.
-
-**Key Features:**
-- Two-Way ANOVA statistical tests
-- Interaction effect analysis
-- Tukey HSD post-hoc testing
-- Effect size calculations (eta-squared)
-- Multiple visualization options
-- Export to Word, Excel, and HTML
-
-### ⚖️ **karkas** ⭐
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/karkas)
-> Calculator for estimating carcass and non-carcass components of Indonesian livestock. Supports various cattle breeds, goats, and sheep with accurate calculations based on scientific research.
-
-**Key Features:**
-- Support for Indonesian livestock breeds
-- Accurate carcass component calculations
-- Scientific research-based formulas
-- User-friendly interface
-
-## 🔄 Recent Activity
-
-- 📚 **CariBuku** (HTML) - Book search application - *January 15, 2026* 📖🔍
-- 🔍 **DorkGoogle** (Python) - Google dorking tool - *January 17, 2026* 🕵️‍♂️🌐
-- 🎨 **adioranye-portfolio** (TypeScript) - Personal portfolio website - *January 11, 2026* 💼✨
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-### Frameworks & Libraries
-- **Streamlit** - Web app development
-- **Pandas, NumPy** - Data manipulation
-- **SciPy, Statsmodels** - Statistical analysis
-- **Matplotlib, Seaborn, Plotly** - Data visualization
-- **ReportLab** - PDF generation
-
-### Tools & Platforms
-- **Git & GitHub** - Version control
-- **Vercel** - Web deployment
-- **Jupyter** - Data analysis
-- **VS Code** - Development environment
-
-## 📞 Connect with Me
-
-I'm always open to collaboration on agricultural technology projects, statistical tools, or data analysis applications. Feel free to reach out!
-
-[![GitHub](https://img.shields.io/badge/GitHub-adiorany3-181717?style=flat&logo=github)](https://github.com/adiorany3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
-[![Website](https://img.shields.io/badge/Website-adioranye.vercel.app-000000?style=flat&logo=vercel&logoColor=white)](https://adioranye.vercel.app)
-[![Telegram](https://img.shields.io/badge/Telegram-Chat%20with%20Me-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/adioranye)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=adiorany3.adiorany3)
 
 ---
 
-⭐ **Fun Facts**:
-- 🌱 My projects have helped farmers optimize feed costs and researchers perform better statistical analysis!
-- 🚀 I love combining agriculture with cutting-edge tech like AI and data science.
-- 📊 Fun fact: I can calculate ruminant rations faster than you can say "linear programming"!
+### 🐄 <b>ransumruminansia</b>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/ransumruminansia)
+<br><i>Web app komprehensif untuk menghitung ransum ternak ruminansia. Fitur: formulasi manual, optimasi otomatis (linear programming), analisis mineral, dan dukungan berbagai jenis ternak.</i>
 
-*"Building technology to bridge the gap between agriculture and data science"* 🚀
+<b>Fitur Utama:</b>
+• Formulasi pakan manual & otomatis<br>
+• Optimasi biaya<br>
+• Analisis defisiensi mineral<br>
+• Analisis nutrisi real-time
+
+
+### 📊 <b>OneWay</b>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/OneWay)
+<br><i>Alat analisis statistik One-Way ANOVA dengan post-hoc lengkap & visualisasi. Mendukung berbagai metode perbandingan dan uji asumsi.</i>
+
+<b>Fitur Utama:</b>
+• Perhitungan ANOVA satu arah<br>
+• Uji post-hoc (Tukey, Bonferroni, dll)<br>
+• Estimasi effect size (Cohen's d)<br>
+• Visualisasi kaya (boxplot, distribusi)<br>
+• Uji asumsi (normalitas, homogenitas)
+
+
+### 🥛 <b>ransumsapiperah</b>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/ransumsapiperah)
+<br><i>Aplikasi khusus optimasi ransum sapi perah dengan linear programming. Menghitung campuran pakan optimal berdasar kebutuhan nutrisi & biaya.</i>
+
+<b>Fitur Utama:</b>
+• Optimasi linear programming<br>
+• Perhitungan kebutuhan nutrisi<br>
+• Algoritma minimasi biaya<br>
+• Dukungan berbagai bahan pakan
+
+
+### 📈 <b>ttest</b>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/ttest)
+<br><i>Aplikasi analisis T-Test lengkap (One Sample & Independent). Fitur: analisis statistik detail, effect size, visualisasi, dan interpretasi hasil.</i>
+
+<b>Fitur Utama:</b>
+• T-Test satu & dua sampel<br>
+• Perhitungan effect size<br>
+• Interval kepercayaan<br>
+• Visualisasi beragam<br>
+• Interpretasi hasil komprehensif
+
+
+### 🔬 <b>TwoWay</b>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/TwoWay)
+<br><i>Alat analisis Two-Way ANOVA dengan analisis interaksi, post-hoc, dan visualisasi lengkap. Mendukung impor data CSV/Excel & ekspor multi-format.</i>
+
+<b>Fitur Utama:</b>
+• Uji statistik Two-Way ANOVA<br>
+• Analisis efek interaksi<br>
+• Post-hoc Tukey HSD<br>
+• Effect size (eta-squared)<br>
+• Visualisasi & ekspor ke Word/Excel/HTML
+
+
+### ⚖️ <b>karkas</b> ⭐
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/karkas)
+<br><i>Kalkulator estimasi karkas & non-karkas ternak Indonesia. Mendukung berbagai ras sapi, kambing, domba, dengan rumus ilmiah.</i>
+
+<b>Fitur Utama:</b>
+• Dukungan ras ternak Indonesia<br>
+• Perhitungan komponen karkas akurat<br>
+• Rumus berbasis penelitian<br>
+• Antarmuka ramah pengguna
+
+---
+
+</details>
+
+
+## 🔄 Recent Activity
+
+<ul>
+	<li>📚 <b>CariBuku</b> (HTML) — Book search app <i>(Jan 15, 2026)</i> 📖🔍</li>
+	<li>🔍 <b>DorkGoogle</b> (Python) — Google dorking tool <i>(Jan 17, 2026)</i> 🕵️‍♂️🌐</li>
+	<li>🎨 <b>adioranye-portfolio</b> (TypeScript) — Personal portfolio <i>(Jan 11, 2026)</i> 💼✨</li>
+</ul>
+
+---
+
+## 🛠️ Technologies & Skills
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+<ul>
+	<li><b>Frameworks:</b> Streamlit, FastAPI</li>
+	<li><b>Data Science:</b> Pandas, NumPy, SciPy, Statsmodels</li>
+	<li><b>Visualization:</b> Matplotlib, Seaborn, Plotly</li>
+	<li><b>PDF & Report:</b> ReportLab</li>
+	<li><b>Tools:</b> Git, GitHub, Jupyter, VS Code, Vercel</li>
+</ul>
+
+---
+
+
+## 📞 Connect with Me
+
+<div align="center">
+	<a href="https://github.com/adiorany3"><img src="https://img.shields.io/badge/GitHub-adiorany3-181717?style=for-the-badge&logo=github"/></a>
+	<a href="https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/"><img src="https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+	<a href="https://adioranye.vercel.app"><img src="https://img.shields.io/badge/Website-adioranye.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+	<a href="https://t.me/adioranye"><img src="https://img.shields.io/badge/Telegram-Chat%20with%20Me-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</div>
+
+<div align="center">
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=adiorany3.adiorany3"/>
+</div>
+
+---
+
+<details>
+<summary>⭐ <b>Fun Facts</b></summary>
+
+- 🌱 Proyek saya membantu petani mengoptimalkan biaya pakan & peneliti statistik!
+- 🚀 Suka menggabungkan pertanian dengan teknologi mutakhir (AI, data science).
+- 📊 Bisa menghitung ransum lebih cepat dari kamu bilang "linear programming"!
+
+</details>
+
+<div align="center">
+	<i>"Building technology to bridge the gap between agriculture and data science" 🚀</i>
+</div>
