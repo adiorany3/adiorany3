@@ -23,10 +23,28 @@ Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Pyt
 - 🏆 **YOLO Achievement** - Active in computer vision and object detection
 - 🦈 **Pull Shark** - Consistent contributor to open-source projects
 
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adiorany3&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiorany3&layout=compact&theme=radical)
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=adiorany3&show_icons=true&theme=radical" alt="adiorany3's GitHub stats" height="165"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiorany3&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiorany3&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=adiorany3&theme=radical&margin-w=10&margin-h=10" alt="Trophy" />
+</p>
+
+<details>
+<summary>ℹ️ <b>Keterangan Statistik</b></summary>
+
+- <b>GitHub Stats</b>: Statistik kontribusi, commit, dan repo publik.
+- <b>Top Languages</b>: Bahasa pemrograman yang paling sering digunakan.
+- <b>Streak</b>: Jumlah hari berkontribusi berturut-turut.
+- <b>Trophy</b>: Penghargaan otomatis dari aktivitas GitHub.
+
+</details>
 
 ## 📌 Featured Projects
 
