@@ -14,7 +14,7 @@
 Hi there! I'm **Galuh Adi Insani**, a passionate developer specializing in **Python applications** for agriculture, statistics, and data analysis. With over **955 contributions** on GitHub in the last year, I focus on creating practical tools that solve real-world problems in farming and research.
 
 - **🌐 Website**: [adioranye.vercel.app](https://adioranye.vercel.app)
-- **👥 Followers**: 10 | **👤 Following**: 8
+- [![GitHub followers](https://img.shields.io/github/followers/adiorany3?label=Followers&style=social)](https://github.com/adiorany3) | **👤 Following**: 8
 - **📍 Location**: Indonesia
 - **🎯 Focus**: Agricultural Technology, Statistical Analysis, Web Applications
 
