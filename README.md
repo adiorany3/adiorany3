@@ -1,7 +1,7 @@
 
 <div align="center">
 	<h1>👋 Galuh Adi Insani <br><span style="font-size:0.7em;">(adiorany3)</span></h1>
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0e76a8&center=true&vCenter=true&width=380&lines=Python+Dev+%7C+AgriTech+%7C+Statistics;Open+Source+Enthusiast;Always+Learning+💫" alt="Typing SVG"/>
+	<img src="https://img.shields.io/badge/Python%20Dev-AgriTech%20%7C%20Statistics-0e76a8?style=for-the-badge&logo=python&logoColor=white" alt="Python Dev | AgriTech | Statistics"/>
 </div>
 
 ---
