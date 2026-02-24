@@ -1,7 +1,7 @@
 
 <div align="center">
 	<h1 style="font-size:2.2em;">👋 <b>Galuh Adi Insani</b></h1>
-	<span style="font-size:1.1em;color:#888;">(adiorany3)</span>
+	<span style="font-size:1.1em;color:#888;">(adioranye)</span>
 	<br>
 	<img src="https://img.shields.io/badge/Python%20Dev-AgriTech%20%7C%20Statistics-0e76a8?style=for-the-badge&logo=python&logoColor=white" alt="Python Dev | AgriTech | Statistics"/>
 	<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-ffb300?style=for-the-badge&logo=github" alt="Open Source Enthusiast"/>
