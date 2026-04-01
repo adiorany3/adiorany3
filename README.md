@@ -38,7 +38,7 @@ Hi! I'm <b>Galuh Adi Insani</b> — a passionate developer who loves building <b
 
 <ul>
 	<li>🌐 <b>Website:</b> <a href="https://adioranye.vercel.app">adioranye.vercel.app</a></li>
-	<li>👥 <b>Followers:</b> 10 &nbsp;|&nbsp; <b>Following:</b> 8</li>
+	<li>👥 <b>Followers:</b> 11 &nbsp;|&nbsp; <b>Following:</b> 9</li>
 	<li>📍 <b>Location:</b> Indonesia</li>
 	<li>🎯 <b>Focus:</b> AgriTech, Statistical Analysis, Web Apps</li>
 </ul>
