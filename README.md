@@ -202,7 +202,7 @@ Berikut beberapa repositori utama yang menunjukkan keahlian saya di bidang softw
 
 <div align="center">
   <a href="https://github.com/adiorany3"><img src="https://img.shields.io/badge/GitHub-adiorany3-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/"><img src="https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/galuh-adi-insani-adioranye/"><img src="https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://adioranye.vercel.app"><img src="https://img.shields.io/badge/Website-adioranye.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://t.me/adioranye"><img src="https://img.shields.io/badge/Telegram-Chat%20with%20Me-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
