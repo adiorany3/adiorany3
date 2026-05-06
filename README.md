@@ -2,15 +2,6 @@
 
 <div align="center">
 	<h1>👋 <b>Galuh Adi Insani</b> <span style="font-size:0.7em; color:#888;">(adioranye)</span></h1>
-  
-	<a href="https://github.com/adiorany3">
-		<img src="https://img.shields.io/github/followers/adiorany3?label=GitHub%20Followers&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers"/>
-	</a>
-	<img src="https://img.shields.io/badge/Code-Open%20Source-ffb300?style=for-the-badge&logo=github" alt="Open Source"/>
-	<img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Python-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Stack"/>
-	<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
-	<img src="https://img.shields.io/badge/Always%20Learning-%F0%9F%92%AB-green?style=for-the-badge" alt="Always Learning"/>
-	<br/>
 </div>
 
 ---
