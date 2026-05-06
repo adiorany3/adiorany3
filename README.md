@@ -58,19 +58,30 @@ Hi! I'm <b>Galuh Adi Insani</b> — a passionate developer building <b>open-sour
 
 ## 📊 GitHub Stats & Activity
 
+
 <div align="center">
 	<a href="https://github.com/adiorany3">
 		<img src="https://img.shields.io/github/followers/adiorany3?label=GitHub%20Followers&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers"/>
 		<img src="https://img.shields.io/github/stars/adiorany3?label=Stars&style=for-the-badge&color=ffb300" alt="GitHub Stars"/>
 	</a>
 	<br/>
+	<!-- GitHub Stats (refresh page if not visible) -->
 	<img src="https://github-readme-stats.vercel.app/api?username=adiorany3&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats"/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=adiorany3&theme=github-dark-blue" alt="GitHub Streak"/>
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiorany3&theme=github_dark" alt="Profile Details"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiorany3&layout=compact&theme=github_dark&hide_title=true" alt="Top Languages"/>
 	<br/>
 	<img src="https://github-profile-trophy.vercel.app/?username=adiorany3&theme=darkhub&no-frame=true&margin-w=10&column=6" alt="GitHub Trophy"/>
+	<br/>
+	<!-- Fallback badge if stats not visible -->
+	<a href="https://github.com/anuraghazra/github-readme-stats#common-issues">
+		<img src="https://img.shields.io/badge/Trouble%20seeing%20stats%3F-Click%20here%20for%20help-orange?style=flat-square" alt="Stats Help"/>
+	</a>
 </div>
+
+<!--
+If the stats images above do not appear, try refreshing the page or check your network connection. Sometimes GitHub stats services are rate-limited or cached by GitHub's camo proxy. More info: https://github.com/anuraghazra/github-readme-stats#common-issues
+-->
 
 <div align="center" style="margin-top:10px;">
 	<b>✨ Aktif, Kolaboratif, dan Konsisten Berkontribusi di Open Source! ✨</b>
