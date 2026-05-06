@@ -1,12 +1,16 @@
 
+
 <div align="center">
-	<h1 style="font-size:2.2em;">👋 <b>Galuh Adi Insani</b></h1>
-	<span style="font-size:1.1em;color:#888;">(adioranye)</span>
-	<br>
-	<img src="https://img.shields.io/badge/Python%20Dev-AgriTech%20%7C%20Statistics-0e76a8?style=for-the-badge&logo=python&logoColor=white" alt="Python Dev | AgriTech | Statistics"/>
-	<img src="https://img.shields.io/badge/Open%20Source-Enthusiast-ffb300?style=for-the-badge&logo=github" alt="Open Source Enthusiast"/>
+	<h1>👋 <b>Galuh Adi Insani</b> <span style="font-size:0.7em; color:#888;">(adioranye)</span></h1>
+  
+	<a href="https://github.com/adiorany3">
+		<img src="https://img.shields.io/github/followers/adiorany3?label=GitHub%20Followers&style=for-the-badge&color=181717&logo=github" alt="GitHub Followers"/>
+	</a>
+	<img src="https://img.shields.io/badge/Code-Open%20Source-ffb300?style=for-the-badge&logo=github" alt="Open Source"/>
+	<img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Python-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Stack"/>
+	<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
 	<img src="https://img.shields.io/badge/Always%20Learning-%F0%9F%92%AB-green?style=for-the-badge" alt="Always Learning"/>
-	<br>
+	<br/>
 </div>
 
 ---
@@ -34,13 +38,15 @@
 	<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="hello"/>
 </div>
 
-Hi! I'm <b>Galuh Adi Insani</b> — a passionate developer who loves building <b>Python applications</b> for agriculture, statistics, and data analysis. I enjoy solving real-world problems for farmers and researchers with practical, user-friendly tools.
+
+Hi! I'm <b>Galuh Adi Insani</b> — a passionate developer building <b>open-source solutions</b> for agriculture, statistics, and data science. I love solving real-world problems for farmers and researchers with practical, user-friendly tools, and collaborating with the global tech community.
+
 
 <ul>
-	<li>🌐 <b>Website:</b> <a href="https://adioranye.vercel.app">adioranye.vercel.app</a></li>
-	<li>👥 <b>Followers:</b> 11 &nbsp;|&nbsp; <b>Following:</b> 9</li>
-	<li>📍 <b>Location:</b> Indonesia</li>
-	<li>🎯 <b>Focus:</b> AgriTech, Statistical Analysis, Web Apps</li>
+  <li>🌐 <b>Website:</b> <a href="https://adioranye.vercel.app">adioranye.vercel.app</a></li>
+  <li>📍 <b>Location:</b> Indonesia</li>
+  <li>🎯 <b>Focus:</b> AgriTech, Statistical Analysis, Web Apps, Open Source</li>
+  <li>🤝 <b>Let's Collaborate:</b> Open for OSS, research, and freelance projects!</li>
 </ul>
 
 ---
@@ -57,19 +63,17 @@ Hi! I'm <b>Galuh Adi Insani</b> — a passionate developer who loves building <b
 ---
 
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-	<img src="https://img.shields.io/github/followers/adiorany3?label=Followers&style=for-the-badge&color=0e76a8" alt="Followers"/>
-	<img src="https://img.shields.io/github/stars/adiorany3?label=Stars&style=for-the-badge&color=ffb300" alt="Stars"/>
-	<img src="https://img.shields.io/badge/Repo-adiorany3-blue?style=for-the-badge&logo=github" alt="Repo"/>
-	<img src="https://img.shields.io/badge/Total%20Repos-10+-green?style=for-the-badge" alt="Total Repos"/>
-	<img src="https://img.shields.io/badge/Top%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Top Language"/>
-	<img src="https://img.shields.io/badge/Total%20Stars-50+-ffb300?style=for-the-badge" alt="Total Stars"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adiorany3&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiorany3&theme=github-dark-blue" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiorany3&theme=github_dark" alt="Profile Details"/>
 </div>
 
 <div align="center" style="margin-top:10px;">
-	<b>✨ Aktif, Kolaboratif, dan Konsisten Berkontribusi! ✨</b>
+  <b>✨ Aktif, Kolaboratif, dan Konsisten Berkontribusi di Open Source! ✨</b>
 </div>
 
 ---
@@ -168,20 +172,26 @@ Berikut beberapa repositori utama yang menunjukkan keahlian saya di bidang softw
 
 ---
 
-## 🛠️ Technologies & Skills
+
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+	<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </div>
 
 <ul>
-	<li><b>Frameworks:</b> Streamlit, FastAPI</li>
+	<li><b>Frameworks:</b> Next.js, Streamlit, FastAPI</li>
+	<li><b>Frontend:</b> TypeScript, React, SCSS</li>
 	<li><b>Data Science:</b> Pandas, NumPy, SciPy, Statsmodels</li>
 	<li><b>Visualization:</b> Matplotlib, Seaborn, Plotly</li>
 	<li><b>PDF & Report:</b> ReportLab</li>
-	<li><b>Tools:</b> Git, GitHub, Jupyter, VS Code, Vercel</li>
+	<li><b>DevOps:</b> GitHub Actions, Vercel</li>
+	<li><b>Tools:</b> Git, GitHub, Jupyter, VS Code</li>
 </ul>
 
 ---
@@ -200,8 +210,9 @@ Berikut beberapa repositori utama yang menunjukkan keahlian saya di bidang softw
 	<a href="https://discord.gg/VZ2Uzahy"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/></a>
 </div>
 
+
 <div align="center">
-	<img src="https://visitor-badge.laobi.icu/badge?page_id=adiorany3.adiorany3"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adiorany3.adiorany3"/>
 </div>
 
 ---
@@ -215,6 +226,7 @@ Berikut beberapa repositori utama yang menunjukkan keahlian saya di bidang softw
 
 </details>
 
+
 <div align="center">
-	<i>"Building technology to bridge the gap between agriculture and data science" 🚀</i>
+  <i>"Building technology to bridge the gap between agriculture and data science." 🚀</i>
 </div>
