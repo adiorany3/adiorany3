@@ -60,10 +60,8 @@ Hi! I'm <b>Galuh Adi Insani</b> — a passionate developer building <b>open-sour
   </a>
   <br/>
   <!-- GitHub Stats (refresh page if not visible) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=adiorany3&show_icons=true&theme=github_dark&hide_title=true" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiorany3&theme=github-dark-blue" alt="GitHub Streak"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiorany3&theme=github_dark" alt="Profile Details"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiorany3&layout=compact&theme=github_dark&hide_title=true" alt="Top Languages"/>
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=adiorany3&theme=darkhub&no-frame=true&margin-w=10&column=6" alt="GitHub Trophy"/>
   <br/>
