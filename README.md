@@ -1,11 +1,8 @@
-
-
 <div align="center">
 	<h1>👋 <b>Galuh Adi Insani</b> <span style="font-size:0.7em; color:#888;">(adioranye)</span></h1>
 </div>
 
 ---
-
 
 <details>
 <summary>📑 <b>Table of Contents</b></summary>
@@ -21,7 +18,6 @@
 </details>
 
 ---
-
 
 ## 🌟 About Me
 
@@ -44,9 +40,9 @@ Hi! I'm <b>Galuh Adi Insani</b> — a passionate developer building <b>open-sour
 
 <ul>
   <li>🏆 <b>YOLO Achievement</b> — Active in computer vision & object detection</li>
-  <li>🦈 <b>Pull Shark</b> — Konsisten berkontribusi di open-source</li>
-  <li>🌱 <b>AgriTech Impact</b> — Tools membantu petani & peneliti</li>
-  <li>🚀 <b>1000+ Contributions</b> — dalam 1 tahun terakhir</li>
+  <li>🦈 <b>Pull Shark</b> — Consistent open-source contributor</li>
+  <li>🌱 <b>AgriTech Impact</b> — Tools helping farmers & researchers</li>
+  <li>🚀 <b>1000+ Contributions</b> — in the last year</li>
 </ul>
 
 ---
@@ -76,94 +72,86 @@ If the stats images above do not appear, try refreshing the page or check your n
 -->
 
 <div align="center" style="margin-top:10px;">
-  <b>✨ Aktif, Kolaboratif, dan Konsisten Berkontribusi di Open Source! ✨</b>
+  <b>✨ Active, Collaborative, and Consistently Contributing to Open Source! ✨</b>
 </div>
 
 ---
 
-
 ## 📌 Featured Projects
 
 <details open>
-<summary>🔎 <b>Beberapa Proyek Unggulan</b></summary>
+<summary>🔎 <b>Featured Projects</b></summary>
 
-Berikut beberapa repositori utama yang menunjukkan keahlian saya di bidang software pertanian dan statistik:
-
+Here are some of my main repositories showcasing expertise in agricultural software and statistics:
 
 ---
 
 ### 🐄 <b>ransumruminansia</b>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/ransumruminansia)
-<br><i>Web app komprehensif untuk menghitung ransum ternak ruminansia. Fitur: formulasi manual, optimasi otomatis (linear programming), analisis mineral, dan dukungan berbagai jenis ternak.</i>
+<br><i>Comprehensive web app for ruminant livestock ration calculation. Features: manual formulation, automatic optimization (linear programming), mineral analysis, and support for various livestock types.</i>
 
-<b>Fitur Utama:</b>
-• Formulasi pakan manual & otomatis<br>
-• Optimasi biaya<br>
-• Analisis defisiensi mineral<br>
-• Analisis nutrisi real-time
-
+<b>Key Features:</b>
+- Manual & automatic feed formulation<br>
+- Cost optimization<br>
+- Mineral deficiency analysis<br>
+- Real-time nutrient analysis
 
 ### 📊 <b>OneWay</b>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/OneWay)
-<br><i>Alat analisis statistik One-Way ANOVA dengan post-hoc lengkap & visualisasi. Mendukung berbagai metode perbandingan dan uji asumsi.</i>
+<br><i>One-Way ANOVA statistical analysis tool with complete post-hoc tests & visualization. Supports various comparison methods and assumption tests.</i>
 
-<b>Fitur Utama:</b>
-• Perhitungan ANOVA satu arah<br>
-• Uji post-hoc (Tukey, Bonferroni, dll)<br>
-• Estimasi effect size (Cohen's d)<br>
-• Visualisasi kaya (boxplot, distribusi)<br>
-• Uji asumsi (normalitas, homogenitas)
-
+<b>Key Features:</b>
+- One-way ANOVA calculation<br>
+- Post-hoc tests (Tukey, Bonferroni, etc.)<br>
+- Effect size estimation (Cohen's d)<br>
+- Rich visualization (boxplot, distribution)<br>
+- Assumption tests (normality, homogeneity)
 
 ### 🥛 <b>ransumsapiperah</b>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/ransumsapiperah)
-<br><i>Aplikasi khusus optimasi ransum sapi perah dengan linear programming. Menghitung campuran pakan optimal berdasar kebutuhan nutrisi & biaya.</i>
+<br><i>Specialized dairy cattle ration optimization app using linear programming. Calculates optimal feed mix based on nutritional needs & costs.</i>
 
-<b>Fitur Utama:</b>
-• Optimasi linear programming<br>
-• Perhitungan kebutuhan nutrisi<br>
-• Algoritma minimasi biaya<br>
-• Dukungan berbagai bahan pakan
-
+<b>Key Features:</b>
+- Linear programming optimization<br>
+- Nutritional requirements calculation<br>
+- Cost minimization algorithm<br>
+- Various feed ingredients support
 
 ### 📈 <b>ttest</b>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/ttest)
-<br><i>Aplikasi analisis T-Test lengkap (One Sample & Independent). Fitur: analisis statistik detail, effect size, visualisasi, dan interpretasi hasil.</i>
+<br><i>Complete T-Test analysis app (One Sample & Independent). Features: detailed statistical analysis, effect size, visualization, and result interpretation.</i>
 
-<b>Fitur Utama:</b>
-• T-Test satu & dua sampel<br>
-• Perhitungan effect size<br>
-• Interval kepercayaan<br>
-• Visualisasi beragam<br>
-• Interpretasi hasil komprehensif
-
+<b>Key Features:</b>
+- One & two-sample T-Test<br>
+- Effect size calculation<br>
+- Confidence intervals<br>
+- Various visualizations<br>
+- Comprehensive result interpretation
 
 ### 🔬 <b>TwoWay</b>
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/TwoWay)
-<br><i>Alat analisis Two-Way ANOVA dengan analisis interaksi, post-hoc, dan visualisasi lengkap. Mendukung impor data CSV/Excel & ekspor multi-format.</i>
+<br><i>Two-Way ANOVA analysis tool with interaction analysis, post-hoc, and complete visualization. Supports CSV/Excel data import & multi-format export.</i>
 
-<b>Fitur Utama:</b>
-• Uji statistik Two-Way ANOVA<br>
-• Analisis efek interaksi<br>
-• Post-hoc Tukey HSD<br>
-• Effect size (eta-squared)<br>
-• Visualisasi & ekspor ke Word/Excel/HTML
-
+<b>Key Features:</b>
+- Two-Way ANOVA statistical test<br>
+- Interaction effects analysis<br>
+- Tukey HSD post-hoc<br>
+- Effect size (eta-squared)<br>
+- Visualization & export to Word/Excel/HTML
 
 ### ⚖️ <b>karkas</b> ⭐
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/adiorany3/karkas)
-<br><i>Kalkulator estimasi karkas & non-karkas ternak Indonesia. Mendukung berbagai ras sapi, kambing, domba, dengan rumus ilmiah.</i>
+<br><i>Carcass & non-carcass estimation calculator for Indonesian livestock. Supports various cattle, goat, and sheep breeds with scientific formulas.</i>
 
-<b>Fitur Utama:</b>
-• Dukungan ras ternak Indonesia<br>
-• Perhitungan komponen karkas akurat<br>
-• Rumus berbasis penelitian<br>
-• Antarmuka ramah pengguna
+<b>Key Features:</b>
+- Indonesian livestock breed support<br>
+- Accurate carcass component calculation<br>
+- Research-based formulas<br>
+- User-friendly interface
 
 ---
 
 </details>
-
 
 ## 🔄 Recent Activity
 
@@ -202,7 +190,7 @@ Berikut beberapa repositori utama yang menunjukkan keahlian saya di bidang softw
 
 <div align="center">
   <a href="https://github.com/adiorany3"><img src="https://img.shields.io/badge/GitHub-adiorany3-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/galuh-adi-insani-adioranye/"><img src="https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/"><img src="https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://adioranye.vercel.app"><img src="https://img.shields.io/badge/Website-adioranye.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://t.me/adioranye"><img src="https://img.shields.io/badge/Telegram-Chat%20with%20Me-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
