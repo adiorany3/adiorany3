@@ -1,8 +1,8 @@
 # 👋 Galuh Adi Insani
 
-### Research Software Engineer • AgriTech Developer • Scientific Computing
+## Research Software Engineer for Agriculture, Livestock Nutrition, Statistical Analysis, and Scientific Computing
 
-Building practical software for agriculture, statistics, and data-driven decision making.
+Building open-source software for agriculture, livestock nutrition, statistical analysis, optimization, and scientific computing.
 
 <p align="center">
   <a href="https://github.com/adiorany3">
@@ -18,57 +18,229 @@ Building practical software for agriculture, statistics, and data-driven decisio
 
 ---
 
-## About
+# Agricultural Software | Livestock Nutrition | Statistical Analysis | Scientific Computing
 
-I build agricultural and scientific software that transforms research methodologies into practical tools used by farmers, students, researchers, and industry practitioners.
+I develop software solutions that transform agricultural and scientific research into practical applications for farmers, researchers, students, educators, and industry practitioners.
 
-## Current Focus
+My primary focus includes:
 
-- 🌾 AgriTech decision-support platforms
-- 📊 Statistical analysis applications
-- 🧮 Mathematical modeling and optimization
-- 🤖 Machine learning for agricultural datasets
-- 🚀 Open-source scientific software
+- Agricultural Decision Support Systems
+- Livestock Feed Formulation Software
+- Animal Nutrition Modeling
+- Statistical Analysis Applications
+- ANOVA and T-Test Software
+- Optimization Algorithms
+- Scientific Computing
+- Research Software Engineering
+- Open Source Development
 
-## Expertise
+---
 
-| Area | Technologies |
-|--------|------------|
-| Backend Development | Python, FastAPI, Flask |
-| Frontend Development | Next.js, React, TypeScript |
-| Data Analysis | Pandas, NumPy, SciPy |
-| Statistical Computing | ANOVA, T-Test, Effect Size Analysis |
-| Scientific Software | Optimization Models, Research Tools |
-| DevOps | GitHub Actions, Vercel |
-| Domain Knowledge | Agriculture, Livestock Production, Feed Formulation |
+## Domain Expertise
+
+- Animal Nutrition
+- Feed Formulation
+- Livestock Production
+- Dairy Cattle Nutrition
+- Beef Cattle Production
+- Agricultural Data Analysis
+- Statistical Analysis
+- Experimental Design
+- Scientific Computing
+- Optimization Models
+- Research Software Development
+
+---
+
+## Specialized Areas
+
+### Livestock Feed Formulation Software
+
+Developing software for feed formulation, ration balancing, nutrient evaluation, and least-cost optimization for livestock production systems.
+
+### Statistical Analysis Software
+
+Building ANOVA, T-Test, effect size, confidence interval, and research-oriented statistical applications.
+
+### Agricultural Decision Support Systems
+
+Creating practical software solutions that help agricultural professionals make data-driven decisions.
+
+### Scientific Computing Applications
+
+Developing scientific and mathematical software using Python, optimization algorithms, and statistical modeling techniques.
+
+---
 
 ## Featured Projects
 
 ### 🌾 RansumRuminansia
-Comprehensive feed ration formulation platform for ruminant livestock.
 
-### 📊 OneWay
-Statistical analysis platform for One-Way ANOVA and post-hoc testing.
+Open-source livestock feed formulation and ration optimization software for cattle, sheep, and goat nutrition management.
 
-### 🐄 Karkas
-Livestock carcass estimation tool based on scientific methods.
+**Keywords:**
 
-## Engineering Principles
-
-- Solve real-world problems
-- Keep systems maintainable
-- Automate repetitive workflows
-- Make research reproducible
-- Build tools people can actually use
-
-## Collaboration
-
-Open to:
-- Open-source collaborations
-- Research projects
-- Technical consulting
-- Freelance development
+Feed Formulation, Livestock Nutrition, Ration Optimization, Animal Nutrition, Agricultural Software, Linear Programming
 
 ---
 
-**Building technology that bridges agriculture, science, and practical impact.**
+### 🥛 RansumSapiPerah
+
+Dairy cattle nutrition planning and least-cost feed formulation software.
+
+**Keywords:**
+
+Dairy Cattle Nutrition, Feed Formulation Software, Livestock Management, Agricultural Decision Support System
+
+---
+
+### 📊 OneWay
+
+Statistical analysis software for One-Way ANOVA, post-hoc testing, and effect size calculation.
+
+**Keywords:**
+
+ANOVA Software, Statistical Analysis, Experimental Design, Research Software
+
+---
+
+### 🔬 TwoWay
+
+Two-Way ANOVA software with interaction analysis and advanced statistical interpretation.
+
+**Keywords:**
+
+Two-Way ANOVA, Statistical Modeling, Research Analysis, Data Analysis
+
+---
+
+### 📈 T-Test
+
+Statistical software for one-sample and independent sample T-Test analysis.
+
+**Keywords:**
+
+T-Test Calculator, Statistical Analysis Software, Confidence Intervals, Effect Size
+
+---
+
+### 🐄 Karkas
+
+Livestock carcass and non-carcass estimation software based on scientific production formulas.
+
+**Keywords:**
+
+Livestock Management Software, Carcass Estimation, Animal Production, Agricultural Tools
+
+---
+
+## Technologies
+
+### Programming Languages
+
+- Python
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+
+### Frameworks
+
+- FastAPI
+- Flask
+- Streamlit
+- React
+- Next.js
+
+### Data Science & Scientific Computing
+
+- Pandas
+- NumPy
+- SciPy
+- Statsmodels
+- Linear Programming
+- Statistical Modeling
+
+---
+
+## Current Focus
+
+- 🌾 AgriTech Software Development
+- 📊 Statistical Computing
+- 🧮 Optimization Algorithms
+- 🤖 Machine Learning for Agriculture
+- 🔬 Research Software Engineering
+- 🚀 Open Source Scientific Applications
+
+---
+
+## Open Source
+
+Most projects are developed as open-source software to support:
+
+- Agricultural practitioners
+- Livestock producers
+- Researchers
+- Students
+- Data analysts
+- Scientific communities
+
+---
+
+## FAQ
+
+### What is RansumRuminansia?
+
+RansumRuminansia is an open-source livestock feed formulation software designed for ration balancing, nutrient evaluation, and least-cost feed optimization.
+
+### What statistical software do you develop?
+
+I develop statistical analysis software including ANOVA, T-Test, effect size analysis, confidence interval estimation, and research-oriented analytical tools.
+
+### What industries do you focus on?
+
+Agriculture, livestock production, animal nutrition, scientific computing, data analysis, and research software engineering.
+
+### What technologies do you use?
+
+Python, FastAPI, Streamlit, Next.js, React, Pandas, NumPy, SciPy, and statistical modeling frameworks.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adiorany3&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiorany3&theme=tokyonight" alt="Profile Details" />
+</p>
+
+---
+
+## Collaboration
+
+Interested in:
+
+- Agricultural Software Development
+- Livestock Nutrition Systems
+- Statistical Analysis Platforms
+- Research Software Engineering
+- Open Source Collaboration
+- Technical Consulting
+
+Feel free to connect and collaborate.
+
+---
+
+## Connect
+
+- GitHub: https://github.com/adiorany3
+- LinkedIn: https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/
+- Portfolio: https://adioranye.vercel.app
+- Telegram: https://t.me/adioranye
+
+---
+
+**Building open-source software for agriculture, livestock nutrition, statistical analysis, and scientific computing.**
