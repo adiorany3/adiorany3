@@ -4,7 +4,7 @@
 
 ### `Developer • AgriTech Builder • Data Science Enthusiast • Open Source Contributor`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=720&lines=Building+data-driven+tools+for+agriculture;Shipping+open-source+apps+with+Python+%26+TypeScript;Turning+research+workflows+into+usable+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=760&lines=Building+data-driven+tools+for+agriculture;Shipping+open-source+apps+with+Python+%26+TypeScript;Turning+research+workflows+into+usable+software" alt="Typing SVG" />
 
 <br/>
 
@@ -17,6 +17,9 @@
 <a href="https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/">
   <img src="https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://t.me/adioranye">
+  <img src="https://img.shields.io/badge/Telegram-adioranye-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 </div>
 
@@ -24,9 +27,9 @@
 
 ## 🚀 About Me
 
-I'm **Galuh Adi Insani**, a developer from **Indonesia** focused on building practical, research-friendly, and data-driven software for **AgriTech**, **statistics**, and **scientific computing**.
+Hi, I'm **Galuh Adi Insani**, a developer from **Indonesia** who focuses on building practical, research-friendly, and data-driven software for **AgriTech**, **statistics**, and **scientific computing**.
 
-I like turning complex agricultural and statistical workflows into clean, accessible web applications that can be used by farmers, researchers, students, and field practitioners.
+I enjoy transforming agricultural, livestock, and statistical workflows into clean web applications that are accessible for farmers, researchers, students, and field practitioners.
 
 ```txt
 Focus Area   : AgriTech, Statistical Analysis, Web Apps, Open Source
@@ -39,10 +42,10 @@ Availability : Open for OSS collaboration, research projects, and freelance work
 
 ## 🧠 What I Build
 
-- 🌾 **AgriTech tools** for livestock feed formulation, ration optimization, and carcass estimation  
-- 📊 **Statistical analysis apps** for ANOVA, T-Test, effect size calculation, and visual interpretation  
-- 🧪 **Research-oriented software** that helps transform academic formulas into usable tools  
-- ⚙️ **Data-driven web applications** using Python, TypeScript, Streamlit, FastAPI, and Next.js  
+- 🌾 **AgriTech tools** for livestock feed formulation, ration optimization, and carcass estimation.
+- 📊 **Statistical analysis apps** for ANOVA, T-Test, effect size calculation, and visual interpretation.
+- 🧪 **Research-oriented software** that transforms academic formulas into usable tools.
+- ⚙️ **Data-driven web applications** using Python, TypeScript, Streamlit, FastAPI, and Next.js.
 
 ---
 
@@ -51,19 +54,23 @@ Availability : Open for OSS collaboration, research projects, and freelance work
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,ts,js,html,css" />
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,html,css" alt="Languages" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flask" alt="Frameworks and Libraries" />
 
 ### Data & Scientific Computing
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statsmodels-24476B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+<img src="https://img.shields.io/badge/Statsmodels-24476B?style=for-the-badge" alt="Statsmodels"/>
 
 ### Tools & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode" />
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,vscode" alt="Tools and Deployment" />
 
 </div>
 
@@ -72,72 +79,84 @@ Availability : Open for OSS collaboration, research projects, and freelance work
 ## 📌 Featured Projects
 
 ### 🐄 [`ransumruminansia`](https://github.com/adiorany3/ransumruminansia)
-A comprehensive web app for **ruminant feed ration formulation**.
+
+A comprehensive web application for **ruminant feed ration formulation**.
 
 **Highlights**
-- Manual and automated feed formulation  
-- Linear programming-based optimization  
-- Mineral deficiency analysis  
-- Real-time nutrition evaluation  
-- Cost-aware ration calculation  
+
+- Manual and automated feed formulation.
+- Linear programming-based optimization.
+- Mineral deficiency analysis.
+- Real-time nutrition evaluation.
+- Cost-aware ration calculation.
 
 ---
 
 ### 🥛 [`ransumsapiperah`](https://github.com/adiorany3/ransumsapiperah)
+
 A specialized ration optimization tool for **dairy cattle nutrition planning**.
 
 **Highlights**
-- Linear programming optimization  
-- Nutrient requirement calculation  
-- Least-cost feed formulation  
-- Multi-feed ingredient support  
+
+- Linear programming optimization.
+- Nutrient requirement calculation.
+- Least-cost feed formulation.
+- Multi-feed ingredient support.
 
 ---
 
 ### ⚖️ [`karkas`](https://github.com/adiorany3/karkas)
+
 A livestock carcass and non-carcass estimation calculator for Indonesian livestock.
 
 **Highlights**
-- Supports Indonesian cattle, goat, and sheep breeds  
-- Scientific formula-based calculations  
-- Practical livestock production interface  
-- Farmer-friendly estimation workflow  
+
+- Supports Indonesian cattle, goat, and sheep breeds.
+- Scientific formula-based calculations.
+- Practical livestock production interface.
+- Farmer-friendly estimation workflow.
 
 ---
 
 ### 📊 [`OneWay`](https://github.com/adiorany3/OneWay)
+
 A complete **One-Way ANOVA analysis tool** with post-hoc testing and visualization.
 
 **Highlights**
-- One-Way ANOVA calculation  
-- Post-hoc tests: Tukey, Bonferroni, and more  
-- Effect size estimation  
-- Assumption testing  
-- Boxplot and distribution visualization  
+
+- One-Way ANOVA calculation.
+- Post-hoc tests, including Tukey and Bonferroni.
+- Effect size estimation.
+- Assumption testing.
+- Boxplot and distribution visualization.
 
 ---
 
 ### 🔬 [`TwoWay`](https://github.com/adiorany3/TwoWay)
+
 A **Two-Way ANOVA tool** with interaction analysis, post-hoc testing, and export support.
 
 **Highlights**
-- Two-factor ANOVA analysis  
-- Interaction effect interpretation  
-- Tukey HSD post-hoc testing  
-- Eta-squared effect size  
-- CSV/Excel import and Word/Excel/HTML export  
+
+- Two-factor ANOVA analysis.
+- Interaction effect interpretation.
+- Tukey HSD post-hoc testing.
+- Eta-squared effect size.
+- CSV/Excel import and Word/Excel/HTML export.
 
 ---
 
 ### 📈 [`ttest`](https://github.com/adiorany3/ttest)
-A statistical app for **One-Sample and Independent T-Test analysis**.
+
+A statistical app for **one-sample and independent T-Test analysis**.
 
 **Highlights**
-- One-sample and two-sample T-Test  
-- Effect size calculation  
-- Confidence interval estimation  
-- Rich visualization  
-- Human-readable interpretation  
+
+- One-sample and two-sample T-Test.
+- Effect size calculation.
+- Confidence interval estimation.
+- Rich visualization.
+- Human-readable interpretation.
 
 ---
 
@@ -171,10 +190,10 @@ A statistical app for **One-Sample and Independent T-Test analysis**.
 
 ## 🏆 Highlights
 
-- 🦈 **Pull Shark** — Consistent open-source contribution  
-- 🎯 **YOLO Achievement** — Active interest in computer vision and object detection  
-- 🌱 **AgriTech Impact** — Building tools for farmers, livestock workflows, and researchers  
-- 🚀 **1000+ Contributions** — Active development and continuous learning  
+- 🦈 **Pull Shark** — Consistent open-source contribution.
+- 🎯 **YOLO Achievement** — Active interest in computer vision and object detection.
+- 🌱 **AgriTech Impact** — Building tools for farmers, livestock workflows, and researchers.
+- 🚀 **1000+ Contributions** — Active development and continuous learning.
 
 ---
 
@@ -190,7 +209,7 @@ const mindset = {
 };
 ```
 
-I believe good software should be useful, understandable, and accessible — especially for domains where technology can create direct impact, such as agriculture, research, and education.
+I believe good software should be useful, understandable, and accessible — especially in domains where technology can create direct impact, such as agriculture, research, and education.
 
 ---
 
@@ -199,16 +218,16 @@ I believe good software should be useful, understandable, and accessible — esp
 <div align="center">
 
 <a href="https://github.com/adiorany3">
-  <img src="https://img.shields.io/badge/GitHub-adiorany3-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-adiorany3-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/">
-  <img src="https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Galuh%20Adi%20Insani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://adioranye.vercel.app">
-  <img src="https://img.shields.io/badge/Website-adioranye.vercel.app-000000?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Website-adioranye.vercel.app-000000?style=for-the-badge&logo=vercel" alt="Website"/>
 </a>
 <a href="https://t.me/adioranye">
-  <img src="https://img.shields.io/badge/Telegram-adioranye-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-adioranye-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
 <br/>
