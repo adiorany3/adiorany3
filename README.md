@@ -9,6 +9,7 @@ Saya membangun perangkat lunak open source yang mengubah riset pertanian, data p
 <p align="center">
   <a href="https://github.com/adiorany3"><img src="https://img.shields.io/github/followers/adiorany3?style=flat-square&logo=github&label=Followers" alt="GitHub followers of Galuh Adi Insani"></a>
   <a href="https://adioranye.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=flat-square&logo=vercel" alt="Galuh Adi Insani software engineering portfolio"></a>
+  <a href="https://catataninsani.wordpress.com/"><img src="https://img.shields.io/badge/Blog-Catatan%20Insani-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Catatan Insani blog by Galuh Adi Insani"></a>
   <a href="https://www.kaggle.com/adioranye"><img src="https://img.shields.io/badge/Kaggle-adioranye-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Galuh Adi Insani on Kaggle"></a>
   <a href="https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="Galuh Adi Insani on LinkedIn"></a>
   <a href="https://t.me/adioranye"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram" alt="Contact Galuh Adi Insani on Telegram"></a>
@@ -38,6 +39,20 @@ Most repositories include source code, project documentation, and examples for l
 | [DNAclassification](https://github.com/adiorany3/DNAclassification) | DNA sequence classification | Jupyter Notebook |
 | [AbnormalSperm](https://github.com/adiorany3/AbnormalSperm) | Sperm abnormality analysis | Python |
 
+## Latest Blog Posts
+
+Articles from [Catatan Insani](https://catataninsani.wordpress.com/) about livestock, agriculture, technology, and data.
+
+<!-- BLOG-POST-LIST:START -->
+- [Teknologi Ternak: Cara Kerja, Manfaat, dan Langkah Pakai](https://catataninsani.wordpress.com/2026/06/29/teknologi-ternak-cara-kerja-manfaat-dan-langkah-pakai/)
+- [Manajemen Kesehatan Ternak: Pencegahan Lebih Murah dari Pengobatan](https://catataninsani.wordpress.com/2026/06/28/manajemen-kesehatan-ternak-pencegahan-lebih-murah-dari-pengobatan/)
+- [Cara Membuat Pakan Fermentasi untuk Ternak: Hemat & Efektif](https://catataninsani.wordpress.com/2026/06/28/cara-membuat-pakan-fermentasi-untuk-ternak-hemat-efektif-2/)
+- [Formulasi Pakan Ayam Broiler: Cara Racik Sendiri untuk Hemat Biaya](https://catataninsani.wordpress.com/2026/06/28/formulasi-pakan-ayam-broiler-cara-racik-sendiri-untuk-hemat-biaya/)
+- [Cara Memilih Bibit Ayam Broiler yang Bagus: Panduan untuk Pemula](https://catataninsani.wordpress.com/2026/06/28/cara-memilih-bibit-ayam-broiler-yang-bagus-panduan-untuk-pemula/)
+<!-- BLOG-POST-LIST:END -->
+
+[Read all articles](https://catataninsani.wordpress.com/) · [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
+
 ## Technology Stack
 
 - **Languages:** Python, TypeScript, JavaScript, HTML, CSS
@@ -66,6 +81,7 @@ When contacting me, include your project goal, expected users, available data, p
 ## Contact
 
 - **Portfolio:** [adioranye.vercel.app](https://adioranye.vercel.app)
+- **Blog:** [Catatan Insani](https://catataninsani.wordpress.com/)
 - **Kaggle:** [@adioranye](https://www.kaggle.com/adioranye)
 - **LinkedIn:** [Galuh Adi Insani](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
 - **Telegram:** [@adioranye](https://t.me/adioranye)
