@@ -47,15 +47,15 @@ Current academic records:
 
 | Project | Description | Technology |
 | --- | --- | --- |
-| [ConvertYAML](https://github.com/adiorany3/ConvertYAML) | YAML conversion utilities | Python |
-| [inbreed](https://github.com/adiorany3/inbreed) | Inbreeding analysis software | Python |
-| [ObjectDetection](https://github.com/adiorany3/ObjectDetection) | Computer vision and object detection | Python |
-| [sembako-dashboard](https://github.com/adiorany3/sembako-dashboard) | Commodity, cryptocurrency, gold, and agriculture monitoring dashboard | Flask |
-| [smartdairy-hub](https://github.com/adiorany3/smartdairy-hub) | Dairy farm and livestock management platform | JavaScript |
-| [LokasiTernak](https://github.com/adiorany3/LokasiTernak) | Livestock location and mapping tools | Python |
-| [FruitDetection](https://github.com/adiorany3/FruitDetection) | AI-based fruit detection | Python |
-| [DNAclassification](https://github.com/adiorany3/DNAclassification) | DNA sequence classification | Jupyter Notebook |
-| [AbnormalSperm](https://github.com/adiorany3/AbnormalSperm) | Sperm abnormality analysis | Python |
+| [smartdairy-hub](https://github.com/adiorany3/smartdairy-hub) | Dairy farm management platform | JavaScript |
+| [ransumruminansia](https://github.com/adiorany3/ransumruminansia) | Feed formulation and cost optimization for cattle, goats, and sheep | Python · Streamlit |
+| [PakanAyamKampung](https://github.com/adiorany3/PakanAyamKampung) | Least-cost local feed optimizer for native chickens | Python · Streamlit |
+| [bbternak](https://github.com/adiorany3/bbternak) | Cattle weight prediction from heart girth and body length | Python · Streamlit |
+| [inbreed](https://github.com/adiorany3/inbreed) | Pedigree, inbreeding, EBV, and selection analytics | Python · Streamlit |
+| [prediksiipbroiler](https://github.com/adiorany3/prediksiipbroiler) | Broiler performance index calculation and prediction | Python · Streamlit · scikit-learn |
+| [MilkPrediction](https://github.com/adiorany3/MilkPrediction) | Dairy milk-yield prediction from cattle images | Python · Streamlit · EfficientNetB0 · SVR |
+| [deteksiayam](https://github.com/adiorany3/deteksiayam) | Preliminary chicken disease detection from droppings images | Python · Streamlit · MobileNetV2 |
+| [manajemenrecording](https://github.com/adiorany3/manajemenrecording) | Cattle recording, analysis, and visualization dashboard | Python · Streamlit |
 
 ## Latest Blog Posts
 
