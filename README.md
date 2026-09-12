@@ -9,6 +9,7 @@ Saya membangun perangkat lunak open source yang mengubah riset pertanian, data p
 <p align="center">
   <a href="https://github.com/adiorany3"><img src="https://img.shields.io/github/followers/adiorany3?style=flat-square&logo=github&label=Followers" alt="GitHub followers of Galuh Adi Insani"></a>
   <a href="https://adioranye.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=flat-square&logo=vercel" alt="Galuh Adi Insani software engineering portfolio"></a>
+  <a href="https://www.kaggle.com/adioranye"><img src="https://img.shields.io/badge/Kaggle-adioranye-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Galuh Adi Insani on Kaggle"></a>
   <a href="https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="Galuh Adi Insani on LinkedIn"></a>
   <a href="https://t.me/adioranye"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram" alt="Contact Galuh Adi Insani on Telegram"></a>
 </p>
@@ -65,6 +66,7 @@ When contacting me, include your project goal, expected users, available data, p
 ## Contact
 
 - **Portfolio:** [adioranye.vercel.app](https://adioranye.vercel.app)
+- **Kaggle:** [@adioranye](https://www.kaggle.com/adioranye)
 - **LinkedIn:** [Galuh Adi Insani](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
 - **Telegram:** [@adioranye](https://t.me/adioranye)
 - **GitHub:** [@adiorany3](https://github.com/adiorany3)
