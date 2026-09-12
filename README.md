@@ -8,6 +8,7 @@ Saya membangun perangkat lunak open source yang mengubah riset pertanian, data p
 
 <p align="center">
   <a href="https://github.com/adiorany3"><img src="https://img.shields.io/github/followers/adiorany3?style=flat-square&logo=github&label=Followers" alt="GitHub followers of Galuh Adi Insani"></a>
+  <a href="https://acadstaff.ugm.ac.id/galuhadiinsani"><img src="https://img.shields.io/badge/UGM-Academic%20Profile-FFCA28?style=flat-square" alt="Academic profile of Galuh Adi Insani at Universitas Gadjah Mada"></a>
   <a href="https://adioranye.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=flat-square&logo=vercel" alt="Galuh Adi Insani software engineering portfolio"></a>
   <a href="https://catataninsani.wordpress.com/"><img src="https://img.shields.io/badge/Blog-Catatan%20Insani-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Catatan Insani blog by Galuh Adi Insani"></a>
   <a href="https://www.kaggle.com/adioranye"><img src="https://img.shields.io/badge/Kaggle-adioranye-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Galuh Adi Insani on Kaggle"></a>
@@ -24,6 +25,17 @@ Saya membangun perangkat lunak open source yang mengubah riset pertanian, data p
 - **Software engineering:** Python APIs and responsive web applications
 
 Most repositories include source code, project documentation, and examples for learning, research, or further development.
+
+## Academic Activities
+
+I am affiliated with the [Faculty of Animal Science, Universitas Gadjah Mada](https://acadstaff.ugm.ac.id/galuhadiinsani), specializing in animal genetics and production.
+
+- **Research:** animal genetics, poultry genetics, bioinformatics, recording systems, and big data analysis
+- **Education:** teaching, course supervision, and student mentoring in animal science and data-driven research
+- **Community service:** knowledge transfer and practical support for livestock and agricultural communities
+- **Innovation:** research software, livestock technology, and intellectual property, including BroilerX
+
+Current records for research, education, community service, grants, publications, and intellectual property are maintained on my [official UGM academic profile](https://acadstaff.ugm.ac.id/galuhadiinsani).
 
 ## Featured Open-Source Projects
 
@@ -80,6 +92,7 @@ When contacting me, include your project goal, expected users, available data, p
 
 ## Contact
 
+- **UGM Academic Profile:** [Research, education, and community service](https://acadstaff.ugm.ac.id/galuhadiinsani)
 - **Portfolio:** [adioranye.vercel.app](https://adioranye.vercel.app)
 - **Blog:** [Catatan Insani](https://catataninsani.wordpress.com/)
 - **Kaggle:** [@adioranye](https://www.kaggle.com/adioranye)
