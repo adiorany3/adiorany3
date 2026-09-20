@@ -1,8 +1,14 @@
+<div align="center">
+
 # Galuh Adi Insani
 
-## Research Software Engineer · AgriTech · Data Science · Applied AI
+### Research Software Engineer · AgriTech · Data Science · Applied AI
 
-I build open-source software that turns agricultural research, livestock data, statistical methods, and AI models into practical tools.
+Agricultural research, livestock data, statistics, and AI — turned into practical software.
+
+[Portfolio](https://adioranye.vercel.app) · [Blog](https://catataninsani.wordpress.com/) · [Academic Profile](https://acadstaff.ugm.ac.id/galuhadiinsani) · [GitHub](https://github.com/adiorany3)
+
+</div>
 
 Saya membangun perangkat lunak open source yang mengubah riset pertanian, data peternakan, metode statistik, dan model AI menjadi alat praktis untuk peneliti, peternak, mahasiswa, pendidik, serta pelaku industri.
 
@@ -43,19 +49,16 @@ Current academic records:
 - [Google Scholar](https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=id) — publications and citations
 - [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/5972626/?view=researches) — indexed research and researcher metrics
 
-## Featured Open-Source Projects
+## Selected Projects
 
-| Project | Description | Technology |
+| Project | Focus | Stack |
 | --- | --- | --- |
-| [smartdairy-hub](https://github.com/adiorany3/smartdairy-hub) | Dairy farm management platform | JavaScript |
-| [ransumruminansia](https://github.com/adiorany3/ransumruminansia) | Feed formulation and cost optimization for cattle, goats, and sheep | Python · Streamlit |
-| [PakanAyamKampung](https://github.com/adiorany3/PakanAyamKampung) | Least-cost local feed optimizer for native chickens | Python · Streamlit |
-| [bbternak](https://github.com/adiorany3/bbternak) | Cattle weight prediction from heart girth and body length | Python · Streamlit |
-| [inbreed](https://github.com/adiorany3/inbreed) | Pedigree, inbreeding, EBV, and selection analytics | Python · Streamlit |
-| [prediksiipbroiler](https://github.com/adiorany3/prediksiipbroiler) | Broiler performance index calculation and prediction | Python · Streamlit · scikit-learn |
-| [MilkPrediction](https://github.com/adiorany3/MilkPrediction) | Dairy milk-yield prediction from cattle images | Python · Streamlit · EfficientNetB0 · SVR |
-| [deteksiayam](https://github.com/adiorany3/deteksiayam) | Preliminary chicken disease detection from droppings images | Python · Streamlit · MobileNetV2 |
-| [manajemenrecording](https://github.com/adiorany3/manajemenrecording) | Cattle recording, analysis, and visualization dashboard | Python · Streamlit |
+| [LandPage](https://github.com/adiorany3/LandPage) · [Live](https://adioranye.vercel.app) | Portfolio website | TypeScript |
+| [smartdairy-hub](https://github.com/adiorany3/smartdairy-hub) | Dairy technology application | JavaScript |
+| [sembako-dashboard](https://github.com/adiorany3/sembako-dashboard) | Commodity monitoring dashboard | Python · Flask |
+| [ObjectDetection](https://github.com/adiorany3/ObjectDetection) | Computer vision | Python |
+| [inbreed](https://github.com/adiorany3/inbreed) | Animal breeding analysis | Python |
+| [ConvertYAML](https://github.com/adiorany3/ConvertYAML) | YAML utility | Python |
 
 ## Latest Blog Posts
 
@@ -71,13 +74,11 @@ Articles from [Catatan Insani](https://catataninsani.wordpress.com/) about lives
 
 [Read all articles](https://catataninsani.wordpress.com/) · [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
 
-## Technology Stack
+## Stack
 
-- **Languages:** Python, TypeScript, JavaScript, HTML, CSS
-- **Backend and apps:** FastAPI, Flask, Streamlit
-- **Frontend:** React, Next.js
-- **Data and science:** Pandas, NumPy, SciPy, Statsmodels
-- **Methods:** statistical modeling, linear programming, mathematical optimization, computer vision
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Focus:** statistical modeling · optimization · data visualization · computer vision · livestock systems
 
 ## GitHub Activity
 
