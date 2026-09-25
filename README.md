@@ -6,7 +6,7 @@
 
 Agricultural research, livestock data, statistics, and AI — turned into practical software.
 
-[Portfolio](https://adioranye.vercel.app) · [Adioranye AI](https://adioranye.vercel.app/ai) · [Blog](https://catataninsani.wordpress.com/) · [Academic Profile](https://acadstaff.ugm.ac.id/galuhadiinsani) · [GitHub](https://github.com/adiorany3)
+[Portfolio](https://www.adioranye.my.id) · [Adioranye AI](https://www.adioranye.my.id/ai) · [Blog](https://catataninsani.wordpress.com/) · [Academic Profile](https://acadstaff.ugm.ac.id/galuhadiinsani) · [GitHub](https://github.com/adiorany3)
 
 </div>
 
@@ -17,8 +17,8 @@ Saya membangun perangkat lunak open source yang mengubah riset pertanian, data p
   <a href="https://acadstaff.ugm.ac.id/galuhadiinsani"><img src="https://img.shields.io/badge/UGM-Academic%20Profile-FFCA28?style=flat-square" alt="Academic profile of Galuh Adi Insani at Universitas Gadjah Mada"></a>
   <a href="https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=id"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar publications by Galuh Adi Insani"></a>
   <a href="https://sinta.kemdiktisaintek.go.id/authors/profile/5972626/?view=researches"><img src="https://img.shields.io/badge/SINTA-Research%20Profile-0B7285?style=flat-square" alt="SINTA research profile of Galuh Adi Insani"></a>
-  <a href="https://adioranye.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=flat-square&logo=vercel" alt="Galuh Adi Insani software engineering portfolio"></a>
-  <a href="https://adioranye.vercel.app/ai"><img src="https://img.shields.io/badge/Adioranye%20AI-Open-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Adioranye AI"></a>
+  <a href="https://www.adioranye.my.id"><img src="https://img.shields.io/badge/Portfolio-Visit-000?style=flat-square&logo=vercel" alt="Galuh Adi Insani software engineering portfolio"></a>
+  <a href="https://www.adioranye.my.id/ai"><img src="https://img.shields.io/badge/Adioranye%20AI-Open-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="Adioranye AI"></a>
   <a href="https://catataninsani.wordpress.com/"><img src="https://img.shields.io/badge/Blog-Catatan%20Insani-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="Catatan Insani blog by Galuh Adi Insani"></a>
   <a href="https://www.kaggle.com/adioranye"><img src="https://img.shields.io/badge/Kaggle-adioranye-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Galuh Adi Insani on Kaggle"></a>
   <a href="https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="Galuh Adi Insani on LinkedIn"></a>
@@ -54,7 +54,7 @@ Current academic records:
 
 | Project | Focus | Stack |
 | --- | --- | --- |
-| [LandPage](https://github.com/adiorany3/LandPage) · [Live](https://adioranye.vercel.app) | Portfolio website | TypeScript |
+| [LandPage](https://github.com/adiorany3/LandPage) · [Live](https://www.adioranye.my.id) | Portfolio website | TypeScript |
 | [smartdairy-hub](https://github.com/adiorany3/smartdairy-hub) | Dairy technology application | JavaScript |
 | [sembako-dashboard](https://github.com/adiorany3/sembako-dashboard) | Commodity monitoring dashboard | Python · Flask |
 | [ObjectDetection](https://github.com/adiorany3/ObjectDetection) | Computer vision | Python |
@@ -103,8 +103,8 @@ When contacting me, include your project goal, expected users, available data, p
 - **UGM Academic Profile:** [Research, education, and community service](https://acadstaff.ugm.ac.id/galuhadiinsani)
 - **Google Scholar:** [Publications and citations](https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=id)
 - **SINTA:** [Research profile](https://sinta.kemdiktisaintek.go.id/authors/profile/5972626/?view=researches)
-- **Portfolio:** [adioranye.vercel.app](https://adioranye.vercel.app)
-- **Adioranye AI:** [Open AI workspace](https://adioranye.vercel.app/ai)
+- **Portfolio:** [www.adioranye.my.id](https://www.adioranye.my.id)
+- **Adioranye AI:** [Open AI workspace](https://www.adioranye.my.id/ai)
 - **Blog:** [Catatan Insani](https://catataninsani.wordpress.com/)
 - **Kaggle:** [@adioranye](https://www.kaggle.com/adioranye)
 - **LinkedIn:** [Galuh Adi Insani](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
