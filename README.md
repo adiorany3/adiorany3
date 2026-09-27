@@ -66,11 +66,11 @@ Current academic records:
 Articles from [Catatan Insani](https://catataninsani.wordpress.com/) about livestock, agriculture, technology, and data.
 
 <!-- BLOG-POST-LIST:START -->
+- [Peternakan 2026: Biosekuriti dan Efisiensi Pakan Jadi Kunci Saat Harga Protein Hewani Menguat](https://catataninsani.wordpress.com/2026/09/27/peternakan-2026-biosekuriti-dan-efisiensi-pakan-jadi-kunci-saat-harga-protein-hewani-menguat/)
 - [Teknologi Ternak: Cara Kerja, Manfaat, dan Langkah Pakai](https://catataninsani.wordpress.com/2026/06/29/teknologi-ternak-cara-kerja-manfaat-dan-langkah-pakai/)
 - [Manajemen Kesehatan Ternak: Pencegahan Lebih Murah dari Pengobatan](https://catataninsani.wordpress.com/2026/06/28/manajemen-kesehatan-ternak-pencegahan-lebih-murah-dari-pengobatan/)
 - [Cara Membuat Pakan Fermentasi untuk Ternak: Hemat & Efektif](https://catataninsani.wordpress.com/2026/06/28/cara-membuat-pakan-fermentasi-untuk-ternak-hemat-efektif-2/)
 - [Formulasi Pakan Ayam Broiler: Cara Racik Sendiri untuk Hemat Biaya](https://catataninsani.wordpress.com/2026/06/28/formulasi-pakan-ayam-broiler-cara-racik-sendiri-untuk-hemat-biaya/)
-- [Cara Memilih Bibit Ayam Broiler yang Bagus: Panduan untuk Pemula](https://catataninsani.wordpress.com/2026/06/28/cara-memilih-bibit-ayam-broiler-yang-bagus-panduan-untuk-pemula/)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles](https://catataninsani.wordpress.com/) · [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
