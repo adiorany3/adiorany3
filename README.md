@@ -2,9 +2,10 @@
 
 # Galuh Adi Insani
 
-### Research Software Engineer · AgriTech · Data Science · Applied AI
+## Research Software Engineer · AgriTech · Data Science · Applied AI
 
 **Ir. Galuh Adi Insani, S.Pt., M.Sc., IPM.**
+
 Faculty of Animal Science · Universitas Gadjah Mada
 
 Agricultural research, livestock data, statistics, and AI — turned into practical software.
@@ -61,14 +62,13 @@ Galuh Adi Insani builds **AgriTech software**, livestock nutrition tools, statis
 
 [View all repositories](https://github.com/adiorany3?tab=repositories)
 
-
 ## Latest Articles
 
 Writing on livestock technology, animal health, feed formulation, and applied AI for farming.
 
 <!-- BLOG-POST-LIST:START -->
 - [Pupuk dari Kandang: Selisih Harga Nitrogen dari Pabrik sampai Lahan](https://catataninsani.wordpress.com/2026/09/29/artikel-blog-pupuk-dari-kandang-selisih-harga-nitrogen-dari-pabrik-sampai-lahan/) — 29 September 2026
-- [Peternakan Cerdas: Kecerdasan Buatan untuk Deteksi Dini Penyakit Ternak](https://catataninsani.wordpress.com/2026/09/29/artikel-blog-peternakan-cerdas-kecerdasan-buatan-untuk-deteksi-dini-penyakit-ternak/) — 28 September 2026
+- [Peternakan Cerdas: Kecerdasan Buatan untuk Deteksi Dini Penyakit Ternak](https://catataninsani.wordpress.com/2026/09/29/artikel-blog-peternakan-cerdas-kecerdasan-buatan-untuk-deteksi-dini-penyakit-ternak/) — 29 September 2026
 - [Cara Melihat Anomali pada Ternak: Membaca Tanda yang Sering Terlewat Sebelum Menjadi Wabah](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-cara-melihat-anomali-pada-ternak-membaca-tanda-yang-sering-terlewat-sebelum-menjadi-wabah/) — 28 September 2026
 - [Menghadapi Cekaman Panas di Kandang Close House Broiler: Langkah yang Harus Dijaga dan Dievaluasi untuk Hasil Optimal](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-menghadapi-cekaman-panas-di-kandang-close-house-broiler-langkah-yang-harus-dijaga-dan-dievaluasi-untuk-hasil-optimal/) — 28 September 2026
 - [Teknologi Peternakan yang Benar-Benar Balik Modal: Menghitung Untung dari Sensor Data dan Otomasi di Kandang Rakyat](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-teknologi-peternakan-yang-benar-benar-balik-modal-menghitung-untung-dari-sensor-data-dan-otomasi-di-kandang-rakyat/) — 28 September 2026
@@ -76,7 +76,6 @@ Writing on livestock technology, animal health, feed formulation, and applied AI
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles](https://catataninsani.wordpress.com/) · [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
-
 
 ## Stack
 
@@ -97,14 +96,13 @@ Writing on livestock technology, animal health, feed formulation, and applied AI
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adiorany3&theme=github_dark)](https://github.com/adiorany3)
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adiorany3&theme=github_dark)](https://github.com/adiorany3)
 
-
 ## Connect
 
 - **Portfolio:** [www.adioranye.my.id](https://www.adioranye.my.id) — livestock innovation and AgriTech projects
 - **Adioranye AI:** [AI workspace](https://www.adioranye.my.id/ai) — applied AI for livestock data analysis
 - **Academic profile:** [UGM](https://acadstaff.ugm.ac.id/galuhadiinsani) · [Google Scholar](https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=en) · [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/5972626/?view=researches)
 - **Blog:** [Catatan Insani](https://catataninsani.wordpress.com/) — Indonesian writing on livestock and farming technology
-- **GitHub:** [@adiorany3](https://github.com/adiorany3) — 72 public repositories
+- **GitHub:** [@adiorany3](https://github.com/adiorany3) — 70+ public repositories
 - **Data science:** [Kaggle](https://www.kaggle.com/adioranye) · **Professional:** [LinkedIn](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
 - **Contact:** [Telegram @adioranye](https://t.me/adioranye) · [adioranye@ugm.ac.id](mailto:adioranye@ugm.ac.id)
 
