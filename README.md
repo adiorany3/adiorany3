@@ -205,7 +205,7 @@ Open to collaboration on:
 - 📚 **Educational content** creation for agricultural technology
 
 **Contact me:**
-- 📧 Email: [galuh.a.insani@ugm.ac.id](mailto:galuh.a.insani@ugm.ac.id)
+- 📧 Email: [adioranye@ugm.ac.id](mailto:galuh.a.insani@ugm.ac.id)
 - 💬 Telegram: [@adioranye](https://t.me/adioranye)
 - 💼 LinkedIn: [galuh-adi-insani](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
 - 🌐 Website: [adioranye.my.id](https://www.adioranye.my.id)
