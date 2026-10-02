@@ -1,0 +1,146 @@
+<div align="center">
+
+# Galuh Adi Insani
+
+## Research Software Engineer · AgriTech · Data Science · Applied AI
+
+**Ir. Galuh Adi Insani, S.Pt., M.Sc., IPM.**
+
+Faculty of Animal Science · Universitas Gadjah Mada
+
+Agricultural research, livestock data, statistics, and AI — turned into practical software.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-adioranye.my.id-0A66C2?style=flat-square&logo=vercel&logoColor=white)](https://www.adioranye.my.id)
+[![Adioranye AI](https://img.shields.io/badge/Adioranye%20AI-Open-7C3AED?style=flat-square&logo=openai&logoColor=white)](https://www.adioranye.my.id/ai)
+[![Blog](https://img.shields.io/badge/Blog-Catatan%20Insani-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://catataninsani.wordpress.com/)
+[![UGM](https://img.shields.io/badge/UGM-Academic%20Profile-FFCA28?style=flat-square)](https://acadstaff.ugm.ac.id/galuhadiinsani)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=en)
+[![SINTA](https://img.shields.io/badge/SINTA-Research%20Profile-0B7285?style=flat-square)](https://sinta.kemdiktisaintek.go.id/authors/profile/5972626/?view=researches)
+[![GitHub Followers](https://img.shields.io/github/followers/adiorany3?style=flat-square&logo=github&label=Followers)](https://github.com/adiorany3?tab=followers)
+[![Repositories](https://img.shields.io/github/repos/adiorany3?style=flat-square&logo=github&label=Repositories)](https://github.com/adiorany3?tab=repositories)
+[![Kaggle](https://img.shields.io/badge/Kaggle-adioranye-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/adioranye)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
+[![Telegram](https://img.shields.io/badge/Telegram-@adioranye-2AABEE?style=flat-square&logo=telegram&logoColor=white)](https://t.me/adioranye)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Research Software Engineer specializing in **AgriTech solutions** for livestock industries. I develop tools that bridge animal science research, data analytics, and artificial intelligence.
+
+**Core Expertise:**
+- 🐮 **Livestock Nutrition Systems** — Feed formulation, cost optimization, ingredient databases
+- 📊 **Farm Management Software** — Recording systems, monitoring dashboards, decision support tools
+- 🔬 **Scientific Computing** — Statistical analysis (ANOVA), reproducible research workflows, data utilities
+- 🤖 **Applied AI for Agriculture** — Computer vision, predictive modeling, automation solutions
+- 🌾 **IoT for Smart Farming** — Sensor systems, environmental monitoring, automated controls
+
+My work transforms research data, statistical methods, and ML models into **accessible software** for researchers, educators, farmers, and industry practitioners.
+
+**Research Focus:** Animal genetics · Bioinformatics · Big data in livestock production · Decision support systems
+
+---
+
+## 🚀 Solution Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌾 AgriTech Software
+Livestock calculators, feed formulation tools, farm recording systems, production dashboards
+
+### 🥕 Livestock Nutrition
+Rumen & poultry ration formulation with linear-programming cost optimization, ingredient databases
+
+### 📈 Scientific Computing
+Statistical analysis (ANOVA, regression), reproducible workflows, data visualization utilities
+
+</td>
+<td width="50%">
+
+### 🤖 Applied AI
+Computer vision for livestock monitoring, predictive analytics, decision-support applications
+
+### 🌡️ IoT for Farming
+Temperature & humidity sensors, incubator/barn monitoring, automation systems
+
+### 🔓 Open Source
+**70+ public repositories** — Web applications and research tools in active use
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⭐ Featured Projects
+
+| Project | Stack | Description |
+| --- | --- | --- |
+| [Ransum Ruminansia](https://www.adioranye.my.id) | Python, NumPy, SciPy | Ration formulation for cattle, goats, and sheep with linear-programming cost optimisation |
+| [Adioranye AI](https://www.adioranye.my.id/ai) | AI workspace | Applied-AI workspace for livestock data analysis and research support |
+| [smartdairy-hub](https://github.com/adiorany3/smartdairy-hub) | JavaScript | Dairy farm management hub |
+| [sembako-dashboard](https://github.com/adiorany3/sembako-dashboard) | Python | Staple-food supply and agriculture dashboard |
+| [CitChat](https://github.com/adiorany3/CitChat) | TypeScript | Citation and literature chat assistant |
+| [LandPage](https://github.com/adiorany3/LandPage) | TypeScript | Portfolio landing page source |
+| [ObjectDetection](https://github.com/adiorany3/ObjectDetection) | Python | Computer vision object detection models |
+| [DeteksiSuara](https://github.com/adiorany3/DeteksiSuara) | Python | Audio and sound event detection |
+| [inbreed](https://github.com/adiorany3/inbreed) | Python | Livestock inbreeding and genetic analysis |
+| [AdIoranye](https://github.com/adiorany3/AdIoranye) | Python | Personal automation and tooling collection |
+| [ChatSecrets](https://github.com/adiorany3/ChatSecrets) | Python | Secure chat data utilities |
+| [statistika](https://github.com/adiorany3/statistika) | Python | Statistical analysis notebooks and helpers |
+| [SumberYAML](https://github.com/adiorany3/SumberYAML) | Python | YAML data source conversion utilities |
+| [bbternak](https://github.com/adiorany3/bbternak) | Python | Livestock application |
+
+[View all repositories](https://github.com/adiorany3?tab=repositories)
+
+## Latest Articles
+
+Writing on livestock technology, animal health, feed formulation, and applied AI for farming.
+
+<!-- BLOG-POST-LIST:START -->
+- [Pupuk dari Kandang: Selisih Harga Nitrogen dari Pabrik sampai Lahan](https://catataninsani.wordpress.com/2026/09/29/artikel-blog-pupuk-dari-kandang-selisih-harga-nitrogen-dari-pabrik-sampai-lahan/) — 29 September 2026
+- [Peternakan Cerdas: Kecerdasan Buatan untuk Deteksi Dini Penyakit Ternak](https://catataninsani.wordpress.com/2026/09/29/artikel-blog-peternakan-cerdas-kecerdasan-buatan-untuk-deteksi-dini-penyakit-ternak/) — 29 September 2026
+- [Cara Melihat Anomali pada Ternak: Membaca Tanda yang Sering Terlewat Sebelum Menjadi Wabah](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-cara-melihat-anomali-pada-ternak-membaca-tanda-yang-sering-terlewat-sebelum-menjadi-wabah/) — 28 September 2026
+- [Menghadapi Cekaman Panas di Kandang Close House Broiler: Langkah yang Harus Dijaga dan Dievaluasi untuk Hasil Optimal](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-menghadapi-cekaman-panas-di-kandang-close-house-broiler-langkah-yang-harus-dijaga-dan-dievaluasi-untuk-hasil-optimal/) — 28 September 2026
+- [Teknologi Peternakan yang Benar-Benar Balik Modal: Menghitung Untung dari Sensor Data dan Otomasi di Kandang Rakyat](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-teknologi-peternakan-yang-benar-benar-balik-modal-menghitung-untung-dari-sensor-data-dan-otomasi-di-kandang-rakyat/) — 28 September 2026
+- [Peternakan sebagai Produsen Energi: Dari Kotoran ke Listrik Biomethane dan Bauran Energi Nasional](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-peternakan-sebagai-produsen-energi-dari-kotoran-ke-listrik-biomethane-dan-bauran-energi-nasional/) — 28 September 2026
+<!-- BLOG-POST-LIST:END -->
+
+[Read all articles](https://catataninsani.wordpress.com/) · [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
+
+## Stack
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)](https://scipy.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+
+## Open Source Activity
+
+[![GitHub Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adiorany3&theme=github_dark)](https://github.com/adiorany3)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adiorany3&theme=github_dark)](https://github.com/adiorany3)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adiorany3&theme=github_dark)](https://github.com/adiorany3)
+
+## Connect
+
+- **Portfolio:** [www.adioranye.my.id](https://www.adioranye.my.id) — livestock innovation and AgriTech projects
+- **Adioranye AI:** [AI workspace](https://www.adioranye.my.id/ai) — applied AI for livestock data analysis
+- **Academic profile:** [UGM](https://acadstaff.ugm.ac.id/galuhadiinsani) · [Google Scholar](https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=en) · [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/5972626/?view=researches)
+- **Blog:** [Catatan Insani](https://catataninsani.wordpress.com/) — Indonesian writing on livestock and farming technology
+- **GitHub:** [@adiorany3](https://github.com/adiorany3) — 70+ public repositories
+- **Data science:** [Kaggle](https://www.kaggle.com/adioranye) · **Professional:** [LinkedIn](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
+- **Contact:** [Telegram @adioranye](https://t.me/adioranye) · [adioranye@ugm.ac.id](mailto:adioranye@ugm.ac.id)
+
+---
+
+*Galuh Adi Insani — AgriTech software, livestock nutrition software, statistical analysis apps, scientific computing, and applied AI for animal science. Python developer, Faculty of Animal Science, Universitas Gadjah Mada, Indonesia.*
