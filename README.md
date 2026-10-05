@@ -10,7 +10,7 @@
 
 ---
 
-Bridging agricultural research, data science, and AI to build **practical tools** for livestock production, nutrition optimization, and farm management.
+I build practical tools for researchers, educators, farmers, and industry teams working in livestock production, nutrition, and farm management. This profile highlights active AgriTech projects, research software, and applied AI work.
 
 ---
 
@@ -59,6 +59,8 @@ My work transforms research data, statistical methods, and ML models into **acce
 
 ## 🚀 Solution Areas
 
+Tools and research software for livestock production, agricultural data, and applied AI.
+
 <table>
 <tr>
 <td width="50%">
@@ -82,7 +84,7 @@ Computer vision for livestock monitoring, predictive analytics, decision-support
 Temperature & humidity sensors, incubator/barn monitoring, automation systems
 
 ### 🔓 Open Source
-**73 public repositories** — Web applications and research tools in active use
+**73 public repositories** — Web applications and research tools for agriculture, data science, and research
 
 </td>
 </tr>
