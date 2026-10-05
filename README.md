@@ -228,6 +228,6 @@ If my projects help your research or business, consider:
 
 *Building the future of livestock technology, one commit at a time.* 🐄💻
 
-[![Profile Views](https://komarev.com/ghpvc/?username=adiorany3&label=Profile%20Views&color=263759&style=flat)](https://github.com/adiorany3)
+<img src="https://komarev.com/ghpvc/?username=adiorany3&label=Profile%20Views&color=263759&style=flat-square" alt="Profile Views"/>
 
 </div>
