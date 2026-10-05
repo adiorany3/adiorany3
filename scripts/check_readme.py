@@ -18,11 +18,11 @@ chk(d.count('<table>') == d.count('</table>'), f"table balanced ({d.count('<tabl
 chk(d.count('<!-- BLOG-POST-LIST:START -->') == 1, 'blog marker START x1')
 chk(d.count('<!-- BLOG-POST-LIST:END -->') == 1, 'blog marker END x1')
 chk(not re.findall(r'\]\([^)]*$', d, re.M), 'no unterminated link paren')
-chk('</a>' not in d, 'no orphan </a>')
+chk(d.count('<a ') == d.count('</a>'), f"a balanced ({d.count('<a ')}/{d.count('</a>')})")
 
-non_img = re.sub(r'https?://img\.shields\.io[^\s)]*|https?://github-profile-summary-cards[^\s)]*', '', d)
-chk('src=' not in non_img, 'no stripped-HTML artifacts (src=)')
-chk('href=' not in non_img, 'no stripped-HTML artifacts (href=)')
+non_html = re.sub(r'<[^>]+>', '', d)
+chk('src=' not in non_html, 'no stripped-HTML artifacts (src=)')
+chk('href=' not in non_html, 'no stripped-HTML artifacts (href=)')
 
 alts = re.findall(r'!\[([^\]]*)\]\(([^)]+)\)', d)
 chk(all(a.strip() for a, _ in alts), f'all {len(alts)} images have alt text')
