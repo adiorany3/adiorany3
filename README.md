@@ -30,7 +30,7 @@ Bridging agricultural research, data science, and AI to build **practical tools*
 
 <p align="center">
   <a href="https://github.com/adiorany3?tab=followers"><img src="https://img.shields.io/github/followers/adiorany3?style=flat-square&logo=github&label=Followers&color=181717" alt="GitHub Followers"/></a>
-  <a href="https://github.com/adiorany3?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&label=Repositories&query=$.public_repos&url=https://api.github.com/users/adiorany3&color=181717" alt="Repositories"/></a>
+  <a href="https://github.com/adiorany3?tab=repositories"><img src="https://img.shields.io/github/repos/adiorany3?style=flat-square&logo=github&label=Repositories&color=181717" alt="Repositories"/></a>
   <a href="https://www.kaggle.com/adioranye"><img src="https://img.shields.io/badge/Kaggle-adioranye-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://t.me/adioranye"><img src="https://img.shields.io/badge/Telegram-@adioranye-2AABEE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -82,7 +82,7 @@ Computer vision for livestock monitoring, predictive analytics, decision-support
 Temperature & humidity sensors, incubator/barn monitoring, automation systems
 
 ### 🔓 Open Source
-**70+ public repositories** — Web applications and research tools in active use
+**73 public repositories** — Web applications and research tools in active use
 
 </td>
 </tr>
@@ -134,12 +134,11 @@ Temperature & humidity sensors, incubator/barn monitoring, automation systems
 Writing about **livestock technology, animal health, feed optimization, and applied AI in agriculture**.
 
 <!-- BLOG-POST-LIST:START -->
-- [Pupuk dari Kandang: Selisih Harga Nitrogen dari Pabrik sampai Lahan](https://catataninsani.wordpress.com/2026/09/29/artikel-blog-pupuk-dari-kandang-selisih-harga-nitrogen-dari-pabrik-sampai-lahan/) — 29 September 2026
-- [Peternakan Cerdas: Kecerdasan Buatan untuk Deteksi Dini Penyakit Ternak](https://catataninsani.wordpress.com/2026/09/29/artikel-blog-peternakan-cerdas-kecerdasan-buatan-untuk-deteksi-dini-penyakit-ternak/) — 29 September 2026
-- [Cara Melihat Anomali pada Ternak: Membaca Tanda yang Sering Terlewat Sebelum Menjadi Wabah](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-cara-melihat-anomali-pada-ternak-membaca-tanda-yang-sering-terlewat-sebelum-menjadi-wabah/) — 28 September 2026
-- [Menghadapi Cekaman Panas di Kandang Close House Broiler: Langkah yang Harus Dijaga dan Dievaluasi untuk Hasil Optimal](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-menghadapi-cekaman-panas-di-kandang-close-house-broiler-langkah-yang-harus-dijaga-dan-dievaluasi-untuk-hasil-optimal/) — 28 September 2026
-- [Teknologi Peternakan yang Benar-Benar Balik Modal: Menghitung Untung dari Sensor Data dan Otomasi di Kandang Rakyat](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-teknologi-peternakan-yang-benar-benar-balik-modal-menghitung-untung-dari-sensor-data-dan-otomasi-di-kandang-rakyat/) — 28 September 2026
-- [Peternakan sebagai Produsen Energi: Dari Kotoran ke Listrik Biomethane dan Bauran Energi Nasional](https://catataninsani.wordpress.com/2026/09/28/artikel-blog-peternakan-sebagai-produsen-energi-dari-kotoran-ke-listrik-biomethane-dan-bauran-energi-nasional/) — 28 September 2026
+- [Artikel Blog: Sebelum Angka Dipakai, Peternak Memeriksa Catatan Kandang](https://catataninsani.wordpress.com/2026/10/05/artikel-blog-sebelum-angka-dipakai-peternak-memeriksa-catatan-kandang/) — 5 Oktober 2026
+- [Ternak Sakit atau Mati Mendadak di Dadapayu: Tiga Keputusan yang Harus Diambil Peternak](https://catataninsani.wordpress.com/2026/10/04/ternak-sakit-atau-mati-mendadak-di-dadapayu-tiga-keputusan-yang-harus-diambil-peternak/) — 4 Oktober 2026
+- [Peternak Siaga: Langkah Cepat Menghadapi Hujan Lebat dan Angin Kencang](https://catataninsani.wordpress.com/2026/10/04/peternak-siaga-langkah-cepat-menghadapi-hujan-lebat-dan-angin-kencang/) — 4 Oktober 2026
+- [Artikel Blog: Kerja yang Tidak Hilang Setelah Kandang Diotomatisasi](https://catataninsani.wordpress.com/2026/10/04/artikel-blog-kerja-yang-tidak-hilang-setelah-kandang-diotomatisasi/) — 4 Oktober 2026
+- [Dari Produksi ke Emisi – Arah Baru Pemuliaan Ternak Ruminansia](https://catataninsani.wordpress.com/2026/10/03/dari-produksi-ke-emisi-arah-baru-pemuliaan-ternak-ruminansia-2/) — 3 Oktober 2026
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
