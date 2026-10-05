@@ -229,6 +229,6 @@ If my projects help your research or business, consider:
 
 *Building the future of livestock technology, one commit at a time.* 🐄💻
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fadiorany3&label=Profile%20Views&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fadiorany3)
+[![Profile Views](https://komarev.com/ghpvc/?username=adiorany3&label=Profile%20Views&color=263759&style=flat)](https://github.com/adiorany3)
 
 </div>
