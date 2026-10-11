@@ -213,6 +213,12 @@ Open to collaboration on:
 
 ---
 
+## Acknowledgments
+
+Sincere thanks to **PT Dahono Consulting Agency** for supporting the development of this open-source project since October 2026.
+
+---
+
 <div align="center">
 
 ### 🙏 Support My Work
