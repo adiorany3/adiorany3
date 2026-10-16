@@ -84,7 +84,7 @@ Computer vision for livestock monitoring, predictive analytics, decision-support
 Temperature & humidity sensors, incubator/barn monitoring, automation systems
 
 ### 🔓 Open Source
-**73 public repositories** — Web applications and research tools for agriculture, data science, and research
+**74 public repositories** — Web applications and research tools for agriculture, data science, and research
 
 </td>
 </tr>
@@ -136,11 +136,11 @@ Temperature & humidity sensors, incubator/barn monitoring, automation systems
 Writing about **livestock technology, animal health, feed optimization, and applied AI in agriculture**.
 
 <!-- BLOG-POST-LIST:START -->
-- [Artikel Blog: Sebelum Angka Dipakai, Peternak Memeriksa Catatan Kandang](https://catataninsani.wordpress.com/2026/10/05/artikel-blog-sebelum-angka-dipakai-peternak-memeriksa-catatan-kandang/) — 5 Oktober 2026
-- [Ternak Sakit atau Mati Mendadak di Dadapayu: Tiga Keputusan yang Harus Diambil Peternak](https://catataninsani.wordpress.com/2026/10/04/ternak-sakit-atau-mati-mendadak-di-dadapayu-tiga-keputusan-yang-harus-diambil-peternak/) — 4 Oktober 2026
-- [Peternak Siaga: Langkah Cepat Menghadapi Hujan Lebat dan Angin Kencang](https://catataninsani.wordpress.com/2026/10/04/peternak-siaga-langkah-cepat-menghadapi-hujan-lebat-dan-angin-kencang/) — 4 Oktober 2026
-- [Artikel Blog: Kerja yang Tidak Hilang Setelah Kandang Diotomatisasi](https://catataninsani.wordpress.com/2026/10/04/artikel-blog-kerja-yang-tidak-hilang-setelah-kandang-diotomatisasi/) — 4 Oktober 2026
-- [Dari Produksi ke Emisi – Arah Baru Pemuliaan Ternak Ruminansia](https://catataninsani.wordpress.com/2026/10/03/dari-produksi-ke-emisi-arah-baru-pemuliaan-ternak-ruminansia-2/) — 3 Oktober 2026
+- [Sebelum Kemah Bakti Peternakan Dimulai: Kebutuhan Siapa yang Membentuk Program di Garut?](https://catataninsani.wordpress.com/2026/10/16/sebelum-kemah-bakti-peternakan-dimulai-kebutuhan-siapa-yang-membentuk-program-di-garut/) — 16 Oktober 2026
+- [Artikel Blog: Kasus Irkutsk: Mengapa Hasil Tes Negatif Belum Menjelaskan Kematian](https://catataninsani.wordpress.com/2026/10/14/artikel-blog-kasus-irkutsk-mengapa-hasil-tes-negatif-belum-menjelaskan-kematian/) — 14 Oktober 2026
+- [Artikel Blog: Saat Layanan IB Terlambat, Siapa Membayar Hari Terbuka Induk?](https://catataninsani.wordpress.com/2026/10/13/artikel-blog-saat-layanan-ib-terlambat-siapa-membayar-hari-terbuka-induk/) — 13 Oktober 2026
+- [Artikel Blog: Log Lot Produk Pasteurisasi: Boyolali dan Bandung Barat](https://catataninsani.wordpress.com/2026/10/12/artikel-blog-log-lot-produk-pasteurisasi-boyolali-dan-bandung-barat/) — 12 Oktober 2026
+- [Artikel Blog: Fluktuasi Harga Bahan Pakan dan Daya Tahan Usaha Rakyat](https://catataninsani.wordpress.com/2026/10/11/artikel-blog-fluktuasi-harga-bahan-pakan-dan-daya-tahan-usaha-rakyat/) — 11 Oktober 2026
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
