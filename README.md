@@ -136,11 +136,11 @@ Temperature & humidity sensors, incubator/barn monitoring, automation systems
 Writing about **livestock technology, animal health, feed optimization, and applied AI in agriculture**.
 
 <!-- BLOG-POST-LIST:START -->
-- [Sebelum Kemah Bakti Peternakan Dimulai: Kebutuhan Siapa yang Membentuk Program di Garut?](https://catataninsani.wordpress.com/2026/10/16/sebelum-kemah-bakti-peternakan-dimulai-kebutuhan-siapa-yang-membentuk-program-di-garut/) — 16 Oktober 2026
-- [Artikel Blog: Kasus Irkutsk: Mengapa Hasil Tes Negatif Belum Menjelaskan Kematian](https://catataninsani.wordpress.com/2026/10/14/artikel-blog-kasus-irkutsk-mengapa-hasil-tes-negatif-belum-menjelaskan-kematian/) — 14 Oktober 2026
-- [Artikel Blog: Saat Layanan IB Terlambat, Siapa Membayar Hari Terbuka Induk?](https://catataninsani.wordpress.com/2026/10/13/artikel-blog-saat-layanan-ib-terlambat-siapa-membayar-hari-terbuka-induk/) — 13 Oktober 2026
-- [Artikel Blog: Log Lot Produk Pasteurisasi: Boyolali dan Bandung Barat](https://catataninsani.wordpress.com/2026/10/12/artikel-blog-log-lot-produk-pasteurisasi-boyolali-dan-bandung-barat/) — 12 Oktober 2026
-- [Artikel Blog: Fluktuasi Harga Bahan Pakan dan Daya Tahan Usaha Rakyat](https://catataninsani.wordpress.com/2026/10/11/artikel-blog-fluktuasi-harga-bahan-pakan-dan-daya-tahan-usaha-rakyat/) — 11 Oktober 2026
+- [Artikel Blog: Kandang Baru Sumut Perlu Ruang untuk Sapi yang Belum Boleh Bercampur](https://catataninsani.wordpress.com/2026/10/25/artikel-blog-kandang-baru-sumut-perlu-ruang-untuk-sapi-yang-belum-boleh-bercampur/) — 25 Oktober 2026
+- [Artikel Blog: Telur Masuk Dapur MBG, Berapa yang Sampai ke Peternak?](https://catataninsani.wordpress.com/2026/10/24/artikel-blog-telur-masuk-dapur-mbg-berapa-yang-sampai-ke-peternak/) — 24 Oktober 2026
+- [Artikel Blog: Segenggam Jagung Tak Bisa Mewakili Satu Lot Koperasi](https://catataninsani.wordpress.com/2026/10/23/artikel-blog-segenggam-jagung-tak-bisa-mewakili-satu-lot-koperasi/) — 23 Oktober 2026
+- [Artikel Blog: Kandang Ayam dan Kolam Lele, Ke Mana Kotorannya Mengalir?](https://catataninsani.wordpress.com/2026/10/22/artikel-blog-kandang-ayam-dan-kolam-lele-ke-mana-kotorannya-mengalir/) — 22 Oktober 2026
+- [Artikel Blog: Kandang Baru di Aceh, Cicilannya Mengikuti Panen atau Kalender?](https://catataninsani.wordpress.com/2026/10/21/artikel-blog-kandang-baru-di-aceh-cicilannya-mengikuti-panen-atau-kalender/) — 21 Oktober 2026
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
