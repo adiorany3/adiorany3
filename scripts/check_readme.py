@@ -1,4 +1,5 @@
 import re, sys, collections
+from pathlib import Path
 
 d = open('README.md').read()
 ok = True
@@ -26,10 +27,22 @@ chk('href=' not in non_html, 'no stripped-HTML artifacts (href=)')
 
 alts = re.findall(r'!\[([^\]]*)\]\(([^)]+)\)', d)
 chk(all(a.strip() for a, _ in alts), f'all {len(alts)} images have alt text')
+html_images = re.findall(r'<img\s+[^>]*>', d)
+chk(all(re.search(r'alt="[^"]+"', img) for img in html_images), f'all {len(html_images)} HTML images have alt text')
+local_images = [src for img in html_images for src in re.findall(r'src="(\./[^"]+)"', img)]
+chk(all(Path(src).is_file() for src in local_images), f'all {len(local_images)} local images exist')
 
 hrefs = re.findall(r'\]\(([^)]+)\)', d)
-rel = [h for h in hrefs if not h.startswith(('http', 'mailto:'))]
-chk(not rel, f'all {len(hrefs)} links absolute; bad={rel}')
+rel = [h for h in hrefs if not h.startswith(('http', 'mailto:', '#'))]
+chk(not rel, f'all {len(hrefs)} links are absolute URLs, email links, or section anchors; bad={rel}')
+
+headings = re.findall(r'^#{1,6} (.+)', d, re.M)
+anchors = set()
+for heading in headings:
+    slug = re.sub(r'[^\w\- ]', '', re.sub(r'\[[^]]+\]\([^)]+\)', '', heading).lower().strip()).replace(' ', '-')
+    anchors.add(slug)
+section_links = [h[1:] for h in hrefs if h.startswith('#')]
+chk(all(slug in anchors for slug in section_links), f'section links resolve to headings; bad={[slug for slug in section_links if slug not in anchors]}')
 
 tables = re.findall(r'((?:^\|.*\|$\n?)+)', d, re.M)
 for i, t in enumerate(tables, 1):

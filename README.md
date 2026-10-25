@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="./assets/profile-banner.svg" alt="Research meets the field — banner ilustrasi agrikultur dan data" width="100%" />
+
+</div>
+
 # Galuh Adi Insani
 
 **Research Software Engineer · AgriTech · Animal Science**
@@ -6,16 +12,43 @@ Ir. Galuh Adi Insani, S.Pt., M.Sc., IPM. · Faculty of Animal Science, Universit
 
 I build research software for livestock nutrition, farm management, and agricultural data analysis. My work connects animal science with practical tools for researchers, educators, farmers, and industry teams.
 
-[Portfolio](https://www.adioranye.my.id) · [Research publications](https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=en) · [Articles](https://catataninsani.wordpress.com/) · [Contact](mailto:adioranye@ugm.ac.id)
+**Explore** &nbsp; [Featured projects](#featured-agritech-projects) · [Expertise](#what-i-work-on) · [Articles](#articles-on-livestock-and-agriculture) · [Get in touch](#research-profiles-and-collaboration)
+
+**Elsewhere** &nbsp; [Portfolio](https://www.adioranye.my.id) · [Research publications](https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=en) · [Catatan Insani](https://catataninsani.wordpress.com/)
 
 ---
 
 ## Featured AgriTech projects
 
-- **[Ransum Ruminansia](https://www.adioranye.my.id)** — Feed ration formulation for cattle, goats, and sheep, including cost optimization with linear programming. Built with Python, NumPy, and SciPy.
-- **[Adioranye AI](https://www.adioranye.my.id/ai)** — Applied AI workspace for livestock data analysis and research support.
-- **[smartdairy-hub](https://github.com/adiorany3/smartdairy-hub)** — Dairy farm management software built with JavaScript.
-- **[sembako-dashboard](https://github.com/adiorany3/sembako-dashboard)** — Dashboard for staple food supply and agricultural market data, built with Python.
+Practical applications at the intersection of livestock production, research, and software.
+
+> **01 / LIVESTOCK NUTRITION**
+>
+> ### [Ransum Ruminansia →](https://www.adioranye.my.id)
+> Feed ration formulation for cattle, goats, and sheep, including cost optimization with linear programming.
+>
+> `Python` · `NumPy` · `SciPy`
+
+> **02 / APPLIED AI**
+>
+> ### [Adioranye AI →](https://www.adioranye.my.id/ai)
+> Applied AI workspace for livestock data analysis and research support.
+>
+> `AI / ML` · `Agricultural data`
+
+> **03 / FARM MANAGEMENT**
+>
+> ### [smartdairy-hub →](https://github.com/adiorany3/smartdairy-hub)
+> Dairy farm management software.
+>
+> `JavaScript` · `Farm operations`
+
+> **04 / MARKET DATA**
+>
+> ### [sembako-dashboard →](https://github.com/adiorany3/sembako-dashboard)
+> Dashboard for staple food supply and agricultural market data.
+>
+> `Python` · `Data visualization`
 
 ### More research and development
 
@@ -41,11 +74,13 @@ I build research software for livestock nutrition, farm management, and agricult
 
 ## What I work on
 
-- **Livestock nutrition:** Feed formulation, ingredient databases, and cost optimization.
-- **Farm management:** Recording systems, monitoring dashboards, and decision support tools.
-- **Scientific computing:** ANOVA, regression, reproducible research workflows, and data visualization.
-- **Applied AI in agriculture:** Computer vision, predictive modeling, and automation.
-- **Smart farming:** Sensor systems and environmental monitoring.
+| Focus | How I apply it |
+| :--- | :--- |
+| **Livestock nutrition** | Feed formulation, ingredient databases, and cost optimization |
+| **Farm management** | Recording systems, monitoring dashboards, and decision support tools |
+| **Scientific computing** | ANOVA, regression, reproducible workflows, and data visualization |
+| **Applied AI** | Computer vision, predictive modeling, and agricultural automation |
+| **Smart farming** | Sensor systems and environmental monitoring |
 
 Research interests include animal genetics, bioinformatics, and livestock production data.
 
