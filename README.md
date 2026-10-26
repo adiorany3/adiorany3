@@ -4,126 +4,157 @@
 
 </div>
 
-# Galuh Adi Insani
+<p align="center">
+  <img src="https://img.shields.io/badge/Research%20Software%20Engineer-Software%20Engineering-blue?style=for-the-badge" alt="Role Badge">
+  <img src="https://img.shields.io/badge/AgriTech-Livestock%20%26%20Agriculture-green?style=for-the-badge" alt="Field Badge">
+  <img src="https://img.shields.io/badge/Institution-UGM%20Yogyakarta-orange?style=for-the-badge" alt="University Badge">
+</p>
+
+# 🌾 Galuh Adi Insani
 
 **Research Software Engineer · AgriTech · Animal Science**
 
-Ir. Galuh Adi Insani, S.Pt., M.Sc., IPM. · Faculty of Animal Science, Universitas Gadjah Mada (UGM)
-
-I build research software for livestock nutrition, farm management, and agricultural data analysis. My work connects animal science with practical tools for researchers, educators, farmers, and industry teams.
-
-**Explore** &nbsp; [Featured projects](#featured-agritech-projects) · [Expertise](#what-i-work-on) · [Articles](#articles-on-livestock-and-agriculture) · [Get in touch](#research-profiles-and-collaboration)
-
-**Elsewhere** &nbsp; [Portfolio](https://www.adioranye.my.id) · [Research publications](https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=en) · [Catatan Insani](https://catataninsani.wordpress.com/)
+> *Ir. Galuh Adi Insani, S.Pt., M.Sc., IPM.*  
+> Faculty of Animal Science, Universitas Gadjah Mada (UGM)
 
 ---
 
-## Featured AgriTech projects
+### 📌 About Me
 
-Practical applications at the intersection of livestock production, research, and software.
+I build research software for **livestock nutrition**, **farm management**, and **agricultural data analysis**. My work connects animal science with practical tools for researchers, educators, farmers, and industry teams.
 
-> **01 / LIVESTOCK NUTRITION**
->
-> ### [Ransum Ruminansia →](https://www.adioranye.my.id)
-> Feed ration formulation for cattle, goats, and sheep, including cost optimization with linear programming.
->
-> `Python` · `NumPy` · `SciPy`
+<p align="center">
+  <a href="#featured-agritech-projects">📂 Featured Projects</a> ·
+  <a href="#what-i-work-on">💡 Expertise</a> ·
+  <a href="#articles-on-livestock-and-agriculture">📝 Articles</a> ·
+  <a href="#research-profiles-and-collaboration">🤝 Get in Touch</a>
+</p>
 
-> **02 / APPLIED AI**
->
-> ### [Adioranye AI →](https://www.adioranye.my.id/ai)
-> Applied AI workspace for livestock data analysis and research support.
->
-> `AI / ML` · `Agricultural data`
+---
 
-> **03 / FARM MANAGEMENT**
->
-> ### [smartdairy-hub →](https://github.com/adiorany3/smartdairy-hub)
-> Dairy farm management software.
->
-> `JavaScript` · `Farm operations`
+## 🚀 Featured AgriTech Projects
 
-> **04 / MARKET DATA**
->
-> ### [sembako-dashboard →](https://github.com/adiorany3/sembako-dashboard)
-> Dashboard for staple food supply and agricultural market data.
->
-> `Python` · `Data visualization`
+> *Practical applications at the intersection of livestock production, research, and software.*
 
-### More research and development
+| # | Project | Description | Tech Stack |
+|:-:|:--------|:------------|:-----------|
+| 01 | **[Ransum Ruminansia →](https://www.adioranye.my.id)** | Feed ration formulation for cattle, goats, and sheep with cost optimization using linear programming | `Python` `NumPy` `SciPy` |
+| 02 | **[Adioranye AI →](https://www.adioranye.my.id/ai)** | Applied AI workspace for livestock data analysis and research support | `AI/ML` `TensorFlow` |
+| 03 | **[smartdairy-hub →](https://github.com/adiorany3/smartdairy-hub)** | Comprehensive dairy farm management system | `JavaScript` `React` |
+| 04 | **[sembako-dashboard →](https://github.com/adiorany3/sembako-dashboard)** | Dashboard for staple food supply and agricultural market data | `Python` `Streamlit` |
+
+---
+
+### 📚 More Research & Development
 
 <details>
 <summary>Explore research tools and repositories</summary>
 
-- [CitChat — citation management](https://github.com/adiorany3/CitChat)
-- [LandPage — web development](https://github.com/adiorany3/LandPage)
-- [ObjectDetection — computer vision](https://github.com/adiorany3/ObjectDetection)
-- [DeteksiSuara — audio analysis](https://github.com/adiorany3/DeteksiSuara)
-- [inbreed — genetic analysis](https://github.com/adiorany3/inbreed)
-- [AdIoranye — automation tools](https://github.com/adiorany3/AdIoranye)
-- [ChatSecrets — secure communication](https://github.com/adiorany3/ChatSecrets)
-- [statistika — statistical tools](https://github.com/adiorany3/statistika)
-- [SumberYAML — data management](https://github.com/adiorany3/SumberYAML)
-- [bbternak — livestock weight tracking](https://github.com/adiorany3/bbternak)
+| Repository | Description |
+|:-----------|:------------|
+| [CitChat](https://github.com/adiorany3/CitChat) | Citation management |
+| [LandPage](https://github.com/adiorany3/LandPage) | Web development |
+| [ObjectDetection](https://github.com/adiorany3/ObjectDetection) | Computer vision |
+| [DeteksiSuara](https://github.com/adiorany3/DeteksiSuara) | Audio analysis |
+| [inbreed](https://github.com/adiorany3/inbreed) | Genetic analysis |
+| [AdIoranye](https://github.com/adiorany3/AdIoranye) | Automation tools |
+| [ChatSecrets](https://github.com/adiorany3/ChatSecrets) | Secure communication |
+| [statistika](https://github.com/adiorany3/statistika) | Statistical tools |
+| [SumberYAML](https://github.com/adiorany3/SumberYAML) | Data management |
+| [bbternak](https://github.com/adiorany3/bbternak) | Livestock weight tracking |
 
 </details>
 
-[Browse all GitHub repositories](https://github.com/adiorany3?tab=repositories)
+📂 **[Browse all GitHub repositories →](https://github.com/adiorany3?tab=repositories)**
 
 ---
 
-## What I work on
+## 💡 What I Work On
 
-| Focus | How I apply it |
-| :--- | :--- |
-| **Livestock nutrition** | Feed formulation, ingredient databases, and cost optimization |
-| **Farm management** | Recording systems, monitoring dashboards, and decision support tools |
-| **Scientific computing** | ANOVA, regression, reproducible workflows, and data visualization |
-| **Applied AI** | Computer vision, predictive modeling, and agricultural automation |
-| **Smart farming** | Sensor systems and environmental monitoring |
+| Focus Area | Application |
+|:-----------|:------------|
+| 🐄 **Livestock Nutrition** | Feed formulation, ingredient databases, and cost optimization |
+| 🏠 **Farm Management** | Recording systems, monitoring dashboards, and decision support |
+| 📊 **Scientific Computing** | ANOVA, regression, reproducible workflows, and data visualization |
+| 🤖 **Applied AI** | Computer vision, predictive modeling, and agricultural automation |
+| 🌡️ **Smart Farming** | Sensor systems and environmental monitoring |
 
-Research interests include animal genetics, bioinformatics, and livestock production data.
+> *Research interests include animal genetics, bioinformatics, and livestock production data.*
 
 ---
 
-## Articles on livestock and agriculture
+## 📝 Articles on Livestock & Agriculture
 
-Notes on livestock production, animal health, feed optimization, and agricultural technology from [Catatan Insani](https://catataninsani.wordpress.com/).
+> Notes on livestock production, animal health, feed optimization, and agricultural technology.
 
 <!-- BLOG-POST-LIST:START -->
-- [Artikel Blog: Kandang Baru Sumut Perlu Ruang untuk Sapi yang Belum Boleh Bercampur](https://catataninsani.wordpress.com/2026/10/25/artikel-blog-kandang-baru-sumut-perlu-ruang-untuk-sapi-yang-belum-boleh-bercampur/) — 25 Oktober 2026
-- [Artikel Blog: Telur Masuk Dapur MBG, Berapa yang Sampai ke Peternak?](https://catataninsani.wordpress.com/2026/10/24/artikel-blog-telur-masuk-dapur-mbg-berapa-yang-sampai-ke-peternak/) — 24 Oktober 2026
-- [Artikel Blog: Segenggam Jagung Tak Bisa Mewakili Satu Lot Koperasi](https://catataninsani.wordpress.com/2026/10/23/artikel-blog-segenggam-jagung-tak-bisa-mewakili-satu-lot-koperasi/) — 23 Oktober 2026
-- [Artikel Blog: Kandang Ayam dan Kolam Lele, Ke Mana Kotorannya Mengalir?](https://catataninsani.wordpress.com/2026/10/22/artikel-blog-kandang-ayam-dan-kolam-lele-ke-mana-kotorannya-mengalir/) — 22 Oktober 2026
-- [Artikel Blog: Kandang Baru di Aceh, Cicilannya Mengikuti Panen atau Kalender?](https://catataninsani.wordpress.com/2026/10/21/artikel-blog-kandang-baru-di-aceh-cicilannya-mengikuti-panen-atau-kalender/) — 21 Oktober 2026
+- 📰 [Kandang Baru di Sumatera Utara — Ruang untuk Sapi yang Belum Boleh Bercampur](https://catataninsani.wordpress.com/2026/10/25/artikel-blog-kandang-baru-sumut-perlu-ruang-untuk-sapi-yang-belum-boleh-bercampur/) — *25 Oktober 2026*
+- 📰 [Telur Masuk Dapur MBG, Berapa yang Sampai ke Peternak?](https://catataninsani.wordpress.com/2026/10/24/artikel-blog-telur-masuk-dapur-mbg-berapa-yang-sampai-ke-peternak/) — *24 Oktober 2026*
+- 📰 [Segenggam Jagung Tak Bisa Mewakili Satu Lot Cooperativa](https://catataninsani.wordpress.com/2026/10/23/artikel-blog-segenggam-jagung-tak-bisa-mewakili-satu-lot-koperasi/) — *23 Oktober 2026*
+- 📰 [Kandang Ayam dan Kolam Lele, Ke Mana Kotorannya Mengalir?](https://catataninsani.wordpress.com/2026/10/22/artikel-blog-kandang-ayam-dan-kolam-lele-ke-mana-kotorannya-mengalir/) — *22 Oktober 2026*
+- 📰 [Kandang Baru di Aceh, Cicilannya Mengikuti Panen atau Kalender?](https://catataninsani.wordpress.com/2026/10/21/artikel-blog-kandang-baru-di-aceh-cicilannya-mengikuti-panen-atau-kalender/) — *21 Oktober 2026*
 <!-- BLOG-POST-LIST:END -->
 
-[Read all articles](https://catataninsani.wordpress.com/) · [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
+📖 [Read all articles](https://catataninsani.wordpress.com/) · 📡 [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
 
 ---
 
-## Tools and technologies
+## 🛠️ Tools and Technologies
 
-- **Languages:** Python, TypeScript, JavaScript
-- **Data science:** NumPy, Pandas, SciPy, TensorFlow, scikit-learn
-- **Web development:** React, Flask, FastAPI, Streamlit, Next.js
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+### Data Science & AI
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+</p>
+
+### Web Development
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+</p>
 
 ---
 
-## Research profiles and collaboration
+## 🤝 Research Profiles and Collaboration
 
-Interested in collaborating on animal science research, agricultural data analysis, or AgriTech software? Get in touch:
+Interested in collaborating on **animal science research**, **agricultural data analysis**, or **AgriTech software**? Let's connect!
 
-- [Email — adioranye@ugm.ac.id](mailto:adioranye@ugm.ac.id)
-- [LinkedIn — Galuh Adi Insani](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/)
-- [Telegram — @adioranye](https://t.me/adioranye)
+### 📧 Contact
+| Platform | Link |
+|:---------|:-----|
+| ✉️ Email | [adioranye@ugm.ac.id](mailto:adioranye@ugm.ac.id) |
+| 💼 LinkedIn | [Galuh Adi Insani](https://www.linkedin.com/in/galuh-adi-insani-1aa0a5105/) |
+| ✈️ Telegram | [@adioranye](https://t.me/adioranye) |
 
-Research profiles: [UGM academic profile](https://acadstaff.ugm.ac.id/galuhadiinsani) · [Google Scholar publications](https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=en) · [SINTA research profile](https://sinta.kemdiktisaintek.go.id/authors/profile/5972626/?view=researches) · [Kaggle](https://www.kaggle.com/adioranye)
+### 🎓 Research Profiles
+| Platform | Link |
+|:---------|:-----|
+| 🎓 UGM Academic | [Profile](https://acadstaff.ugm.ac.id/galuhadiinsani) |
+| 📚 Google Scholar | [Publications](https://scholar.google.com/citations?user=8y2L7xoAAAAJ&hl=en) |
+| 🔬 SINTA | [Research Profile](https://sinta.kemdiktisaintek.go.id/authors/profile/5972626/?view=researches) |
+| 📈 Kaggle | [adioranye](https://www.kaggle.com/adioranye) |
 
 ---
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
-Thanks to **PT Dahono Consulting Agency** for supporting the development of this open-source project since October 2026.
+Special thanks to **PT Dahono Consulting Agency** for supporting the development of open-source projects since October 2026.
 
-[Support on GitHub Sponsors](https://github.com/sponsors/adiorany3)
+<p align="center">
+  <a href="https://github.com/sponsors/adiorany3">
+    <img src="https://img.shields.io/badge/Support%20on%20GitHub-Sponsors-blue?style=for-the-badge&logo=github-sponsors" alt="Support on GitHub Sponsors">
+  </a>
+</p>
