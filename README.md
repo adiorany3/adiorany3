@@ -88,11 +88,11 @@ I build research software for **livestock nutrition**, **farm management**, and 
 > Notes on livestock production, animal health, feed optimization, and agricultural technology.
 
 <!-- BLOG-POST-LIST:START -->
-- 📰 [Kandang Baru di Sumatera Utara — Ruang untuk Sapi yang Belum Boleh Bercampur](https://catataninsani.wordpress.com/2026/10/25/artikel-blog-kandang-baru-sumut-perlu-ruang-untuk-sapi-yang-belum-boleh-bercampur/) — *25 Oktober 2026*
+- 📰 [Obat Ternak Tiba di Agam, Kapan Hasilnya Aman Dijual?](https://catataninsani.wordpress.com/2026/10/27/artikel-blog-obat-ternak-tiba-di-agam-kapan-hasilnya-aman-dijual/) — *27 Oktober 2026*
+- 📰 [Setelah Sapi Diinseminasi, Kapan Ongkos Menunggu Mulai Membesar?](https://catataninsani.wordpress.com/2026/10/26/artikel-blog-setelah-sapi-diinseminasi-kapan-ongkos-menunggu-mulai-membesar/) — *26 Oktober 2026*
+- 📰 [Kandang Baru Sumut Perlu Ruang untuk Sapi yang Belum Boleh Bercampur](https://catataninsani.wordpress.com/2026/10/25/artikel-blog-kandang-baru-sumut-perlu-ruang-untuk-sapi-yang-belum-boleh-bercampur/) — *25 Oktober 2026*
 - 📰 [Telur Masuk Dapur MBG, Berapa yang Sampai ke Peternak?](https://catataninsani.wordpress.com/2026/10/24/artikel-blog-telur-masuk-dapur-mbg-berapa-yang-sampai-ke-peternak/) — *24 Oktober 2026*
-- 📰 [Segenggam Jagung Tak Bisa Mewakili Satu Lot Cooperativa](https://catataninsani.wordpress.com/2026/10/23/artikel-blog-segenggam-jagung-tak-bisa-mewakili-satu-lot-koperasi/) — *23 Oktober 2026*
-- 📰 [Kandang Ayam dan Kolam Lele, Ke Mana Kotorannya Mengalir?](https://catataninsani.wordpress.com/2026/10/22/artikel-blog-kandang-ayam-dan-kolam-lele-ke-mana-kotorannya-mengalir/) — *22 Oktober 2026*
-- 📰 [Kandang Baru di Aceh, Cicilannya Mengikuti Panen atau Kalender?](https://catataninsani.wordpress.com/2026/10/21/artikel-blog-kandang-baru-di-aceh-cicilannya-mengikuti-panen-atau-kalender/) — *21 Oktober 2026*
+- 📰 [Segenggam Jagung Tak Bisa Mewakili Satu Lot Koperasi](https://catataninsani.wordpress.com/2026/10/23/artikel-blog-segenggam-jagung-tak-bisa-mewakili-satu-lot-koperasi/) — *23 Oktober 2026*
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read all articles](https://catataninsani.wordpress.com/) · 📡 [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
