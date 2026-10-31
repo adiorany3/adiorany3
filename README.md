@@ -88,11 +88,11 @@ I build research software for **livestock nutrition**, **farm management**, and 
 > Notes on livestock production, animal health, feed optimization, and agricultural technology.
 
 <!-- BLOG-POST-LIST:START -->
+- 📰 [Sebelum Ternak Ditempatkan di Ngablak: Serah Terima dan Masa Adaptasi](https://catataninsani.wordpress.com/2026/11/01/artikel-blog-sebelum-ternak-ditempatkan-di-ngablak-serah-terima-dan-masa-adaptasi/) — *1 November 2026*
+- 📰 [Rp1.000 per Liter: Di Mana Uang Susu Magelang?](https://catataninsani.wordpress.com/2026/10/31/artikel-blog-rp1-000-per-liter-di-mana-uang-susu-magelang/) — *31 Oktober 2026*
 - 📰 [Rp1 Triliun Diumumkan, Jagung Pakan yang Tiba Berapa?](https://catataninsani.wordpress.com/2026/10/30/artikel-blog-rp1-triliun-diumumkan-jagung-pakan-yang-tiba-berapa/) — *30 Oktober 2026*
 - 📰 [Sepuluh Ribu Sapi Bali, Berapa yang Layak Berangkat?](https://catataninsani.wordpress.com/2026/10/29/artikel-blog-sepuluh-ribu-sapi-bali-berapa-yang-layak-berangkat/) — *29 Oktober 2026*
 - 📰 [Agam Menunggu Pakan, Berapa Lama Stok Kandang Bertahan?](https://catataninsani.wordpress.com/2026/10/28/artikel-blog-agam-menunggu-pakan-berapa-lama-stok-kandang-bertahan/) — *28 Oktober 2026*
-- 📰 [Obat Ternak Tiba di Agam, Kapan Hasilnya Aman Dijual?](https://catataninsani.wordpress.com/2026/10/27/artikel-blog-obat-ternak-tiba-di-agam-kapan-hasilnya-aman-dijual/) — *27 Oktober 2026*
-- 📰 [Setelah Sapi Diinseminasi, Kapan Ongkos Menunggu Mulai Membesar?](https://catataninsani.wordpress.com/2026/10/26/artikel-blog-setelah-sapi-diinseminasi-kapan-ongkos-menunggu-mulai-membesar/) — *26 Oktober 2026*
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read all articles](https://catataninsani.wordpress.com/) · 📡 [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
