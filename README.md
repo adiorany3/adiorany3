@@ -88,11 +88,11 @@ I build research software for **livestock nutrition**, **farm management**, and 
 > Notes on livestock production, animal health, feed optimization, and agricultural technology.
 
 <!-- BLOG-POST-LIST:START -->
+- 📰 [Limbah Ayam Bluri Menjadi Pupuk, Ongkosnya Jatuh ke Siapa](https://catataninsani.wordpress.com/2026/11/05/artikel-blog-limbah-ayam-bluri-menjadi-pupuk-ongkosnya-jatuh-ke-siapa/) — *5 November 2026*
+- 📰 [Telur dan Sapi Tapin Masih Ada, Berapa yang Siap Dijual?](https://catataninsani.wordpress.com/2026/11/04/artikel-blog-telur-dan-sapi-tapin-masih-ada-berapa-yang-siap-dijual/) — *4 November 2026*
 - 📰 [Bisakah Setoran Peternak Ngablak Ditelusuri Sampai Tangki?](https://catataninsani.wordpress.com/2026/11/02/artikel-blog-bisakah-setoran-peternak-ngablak-ditelusuri-sampai-tangki/) — *2 November 2026*
 - 📰 [Sebelum Ternak Ditempatkan di Ngablak: Serah Terima dan Masa Adaptasi](https://catataninsani.wordpress.com/2026/11/01/artikel-blog-sebelum-ternak-ditempatkan-di-ngablak-serah-terima-dan-masa-adaptasi/) — *1 November 2026*
 - 📰 [Rp1.000 per Liter: Di Mana Uang Susu Magelang?](https://catataninsani.wordpress.com/2026/10/31/artikel-blog-rp1-000-per-liter-di-mana-uang-susu-magelang/) — *31 Oktober 2026*
-- 📰 [Rp1 Triliun Diumumkan, Jagung Pakan yang Tiba Berapa?](https://catataninsani.wordpress.com/2026/10/30/artikel-blog-rp1-triliun-diumumkan-jagung-pakan-yang-tiba-berapa/) — *30 Oktober 2026*
-- 📰 [Sepuluh Ribu Sapi Bali, Berapa yang Layak Berangkat?](https://catataninsani.wordpress.com/2026/10/29/artikel-blog-sepuluh-ribu-sapi-bali-berapa-yang-layak-berangkat/) — *29 Oktober 2026*
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read all articles](https://catataninsani.wordpress.com/) · 📡 [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
