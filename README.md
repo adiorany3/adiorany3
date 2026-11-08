@@ -88,11 +88,11 @@ I build research software for **livestock nutrition**, **farm management**, and 
 > Notes on livestock production, animal health, feed optimization, and agricultural technology.
 
 <!-- BLOG-POST-LIST:START -->
+- 📰 [HAT Lampung Disiapkan, Apa Syarat Peternak Kecil Bisa Bergabung?](https://catataninsani.wordpress.com/2026/11/09/artikel-blog-hat-lampung-disiapkan-apa-syarat-peternak-kecil-bisa-bergabung/) — *9 November 2026*
 - 📰 [Kandang Ditertibkan, Asal Lalat di Kudus Masih Menjadi Pertanyaan](https://catataninsani.wordpress.com/2026/11/08/artikel-blog-kandang-ditertibkan-asal-lalat-di-kudus-masih-menjadi-pertanyaan/) — *8 November 2026*
 - 📰 [Kandang Telur Warga Kubu Raya dan Dapur Gizi Setelah PASTI Berakhir](https://catataninsani.wordpress.com/2026/11/07/artikel-blog-kandang-telur-warga-kubu-raya-dan-dapur-gizi-setelah-pasti-berakhir/) — *7 November 2026*
 - 📰 [Sudah Berapa Telur Dibeli dari Alokasi Rp30 Miliar?](https://catataninsani.wordpress.com/2026/11/06/artikel-blog-sudah-berapa-telur-dibeli-dari-alokasi-rp30-miliar/) — *6 November 2026*
 - 📰 [Limbah Ayam Bluri Menjadi Pupuk, Ongkosnya Jatuh ke Siapa](https://catataninsani.wordpress.com/2026/11/05/artikel-blog-limbah-ayam-bluri-menjadi-pupuk-ongkosnya-jatuh-ke-siapa/) — *5 November 2026*
-- 📰 [Telur dan Sapi Tapin Masih Ada, Berapa yang Siap Dijual?](https://catataninsani.wordpress.com/2026/11/04/artikel-blog-telur-dan-sapi-tapin-masih-ada-berapa-yang-siap-dijual/) — *4 November 2026*
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read all articles](https://catataninsani.wordpress.com/) · 📡 [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
