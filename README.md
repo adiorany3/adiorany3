@@ -88,11 +88,11 @@ I build research software for **livestock nutrition**, **farm management**, and 
 > Notes on livestock production, animal health, feed optimization, and agricultural technology.
 
 <!-- BLOG-POST-LIST:START -->
+- 📰 [Di Pesta Patok Cimahi, Bagaimana Peternak Mengakses Layanan?](https://catataninsani.wordpress.com/2026/11/13/artikel-blog-di-pesta-patok-cimahi-bagaimana-peternak-mengakses-layanan/) — *13 November 2026*
 - 📰 [Stiker Grade Batam Menilai Kios, Bagaimana dengan Dagingnya?](https://catataninsani.wordpress.com/2026/11/12/artikel-blog-stiker-grade-batam-menilai-kios-bagaimana-dengan-dagingnya/) — *12 November 2026*
 - 📰 [Dua Sapi di Jembrana Dilaporkan Positif, Jejak Penularannya Belum Terbukti](https://catataninsani.wordpress.com/2026/11/11/artikel-blog-dua-sapi-di-jembrana-dilaporkan-positif-jejak-penularannya-belum-terbukti/) — *11 November 2026*
 - 📰 [23.000 Dosis di Kaltim, Sapi Mana yang Sudah Terlindungi?](https://catataninsani.wordpress.com/2026/11/10/artikel-blog-23-000-dosis-di-kaltim-sapi-mana-yang-sudah-terlindungi/) — *10 November 2026*
 - 📰 [HAT Lampung Disiapkan, Apa Syarat Peternak Kecil Bisa Bergabung?](https://catataninsani.wordpress.com/2026/11/09/artikel-blog-hat-lampung-disiapkan-apa-syarat-peternak-kecil-bisa-bergabung/) — *9 November 2026*
-- 📰 [Kandang Ditertibkan, Asal Lalat di Kudus Masih Menjadi Pertanyaan](https://catataninsani.wordpress.com/2026/11/08/artikel-blog-kandang-ditertibkan-asal-lalat-di-kudus-masih-menjadi-pertanyaan/) — *8 November 2026*
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read all articles](https://catataninsani.wordpress.com/) · 📡 [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
