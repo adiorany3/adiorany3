@@ -88,11 +88,11 @@ I build research software for **livestock nutrition**, **farm management**, and 
 > Notes on livestock production, animal health, feed optimization, and agricultural technology.
 
 <!-- BLOG-POST-LIST:START -->
+- 📰 [RPH NTB Dikejar Sertifikat, Perbaikan Mana yang Sudah Terlihat?](https://catataninsani.wordpress.com/2026/11/17/artikel-blog-rph-ntb-dikejar-sertifikat-perbaikan-mana-yang-sudah-terlihat/) — *17 November 2026*
 - 📰 [Uji t Pakan Ayam, Siapa yang Sebenarnya Diulang?](https://catataninsani.wordpress.com/2026/11/16/artikel-blog-uji-t-pakan-ayam-siapa-yang-sebenarnya-diulang/) — *16 November 2026*
 - 📰 [Sampel Pakan Bisa Diuji di Lampung, Ongkos Apa yang Masih Ditanggung?](https://catataninsani.wordpress.com/2026/11/15/artikel-blog-sampel-pakan-bisa-diuji-di-lampung-ongkos-apa-yang-masih-ditanggung/) — *15 November 2026*
 - 📰 [Daging Babel di Gudang, Bagaimana Bila Kapal Terlambat?](https://catataninsani.wordpress.com/2026/11/14/artikel-blog-daging-babel-di-gudang-bagaimana-bila-kapal-terlambat/) — *14 November 2026*
 - 📰 [Di Pesta Patok Cimahi, Bagaimana Peternak Mengakses Layanan?](https://catataninsani.wordpress.com/2026/11/13/artikel-blog-di-pesta-patok-cimahi-bagaimana-peternak-mengakses-layanan/) — *13 November 2026*
-- 📰 [Stiker Grade Batam Menilai Kios, Bagaimana dengan Dagingnya?](https://catataninsani.wordpress.com/2026/11/12/artikel-blog-stiker-grade-batam-menilai-kios-bagaimana-dengan-dagingnya/) — *12 November 2026*
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read all articles](https://catataninsani.wordpress.com/) · 📡 [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
