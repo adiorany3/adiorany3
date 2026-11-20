@@ -88,11 +88,11 @@ I build research software for **livestock nutrition**, **farm management**, and 
 > Notes on livestock production, animal health, feed optimization, and agricultural technology.
 
 <!-- BLOG-POST-LIST:START -->
+- 📰 [Mengapa Telur Blitar Bisa Masuk Kuningan Saat Pakan Disebut Mahal?](https://catataninsani.wordpress.com/2026/11/21/artikel-blog-mengapa-telur-blitar-bisa-masuk-kuningan-saat-pakan-disebut-mahal/) — *21 November 2026*
 - 📰 [Seusai Peresmian INFASY, Ke Mana Bibit Sapi Api-Api Mengalir?](https://catataninsani.wordpress.com/2026/11/20/artikel-blog-seusai-peresmian-infasy-ke-mana-bibit-sapi-api-api-mengalir/) — *20 November 2026*
 - 📰 [Daging di Lima Pasar Diuji, Apa yang Masih Belum Terjawab?](https://catataninsani.wordpress.com/2026/11/19/artikel-blog-daging-di-lima-pasar-diuji-apa-yang-masih-belum-terjawab/) — *19 November 2026*
 - 📰 [Telur NTB Belum Berangkat, Bukti Terima NTT Masih Kosong](https://catataninsani.wordpress.com/2026/11/18/artikel-blog-telur-ntb-belum-berangkat-bukti-terima-ntt-masih-kosong/) — *18 November 2026*
 - 📰 [RPH NTB Dikejar Sertifikat, Perbaikan Mana yang Sudah Terlihat?](https://catataninsani.wordpress.com/2026/11/17/artikel-blog-rph-ntb-dikejar-sertifikat-perbaikan-mana-yang-sudah-terlihat/) — *17 November 2026*
-- 📰 [Uji t Pakan Ayam, Siapa yang Sebenarnya Diulang?](https://catataninsani.wordpress.com/2026/11/16/artikel-blog-uji-t-pakan-ayam-siapa-yang-sebenarnya-diulang/) — *16 November 2026*
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read all articles](https://catataninsani.wordpress.com/) · 📡 [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
