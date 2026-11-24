@@ -88,11 +88,11 @@ I build research software for **livestock nutrition**, **farm management**, and 
 > Notes on livestock production, animal health, feed optimization, and agricultural technology.
 
 <!-- BLOG-POST-LIST:START -->
+- 📰 [Sapi Bereaksi Tuberkulin, Keputusan di Kandang Belum Selesai](https://catataninsani.wordpress.com/2026/11/25/artikel-blog-sapi-bereaksi-tuberkulin-keputusan-di-kandang-belum-selesai/) — *25 November 2026*
+- 📰 [Ayam Lewat GPM/FDP, Kapan Harga yang Diterima Peternak Bisa Dibuktikan?](https://catataninsani.wordpress.com/2026/11/24/artikel-blog-ayam-lewat-gpm-fdp-kapan-harga-yang-diterima-peternak-bisa-dibuktikan/) — *24 November 2026*
 - 📰 [Kulit Impor Nepal Dimusnahkan: Risiko Karantina Bukan Bukti Virus Ditemukan](https://catataninsani.wordpress.com/2026/11/22/artikel-blog-kulit-impor-nepal-dimusnahkan-risiko-karantina-bukan-bukti-virus-ditemukan/) — *22 November 2026*
 - 📰 [Mengapa Telur Blitar Bisa Masuk Kuningan Saat Pakan Disebut Mahal?](https://catataninsani.wordpress.com/2026/11/21/artikel-blog-mengapa-telur-blitar-bisa-masuk-kuningan-saat-pakan-disebut-mahal/) — *21 November 2026*
 - 📰 [Seusai Peresmian INFASY, Ke Mana Bibit Sapi Api-Api Mengalir?](https://catataninsani.wordpress.com/2026/11/20/artikel-blog-seusai-peresmian-infasy-ke-mana-bibit-sapi-api-api-mengalir/) — *20 November 2026*
-- 📰 [Daging di Lima Pasar Diuji, Apa yang Masih Belum Terjawab?](https://catataninsani.wordpress.com/2026/11/19/artikel-blog-daging-di-lima-pasar-diuji-apa-yang-masih-belum-terjawab/) — *19 November 2026*
-- 📰 [Telur NTB Belum Berangkat, Bukti Terima NTT Masih Kosong](https://catataninsani.wordpress.com/2026/11/18/artikel-blog-telur-ntb-belum-berangkat-bukti-terima-ntt-masih-kosong/) — *18 November 2026*
 <!-- BLOG-POST-LIST:END -->
 
 📖 [Read all articles](https://catataninsani.wordpress.com/) · 📡 [Subscribe via RSS](https://catataninsani.wordpress.com/feed/)
